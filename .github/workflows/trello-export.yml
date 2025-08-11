@@ -1,0 +1,36 @@
+name: Export Trello Cards
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # Every day at 9am Mexico time (UTC-6)
+  workflow_dispatch:
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Checkout Repo
+      uses: actions/checkout@v3
+
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: 📦 Install Dependencies
+      run: pip install requests
+
+    - name: 🚀 Run Export Script
+      run: python export_trello_cards.py
+      env:
+        TRELLO_API_KEY: ${{ secrets.TRELLO_API_KEY }}
+        TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
+
+    - name: 💾 Commit CSV Results
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add cards_export.csv
+        git commit -m "Auto-export Trello cards [CI]" || echo "No changes"
+        git push
