@@ -1,6 +1,6 @@
 card_name,board_name
 Feuji,Board 1
-Horizontal Talent,Board 1
+Sigmoid,Board 1
 Software Guidance & Assistance (SGA),Board 1
 NMC Managed,Board 1
 Coralogix,Board 1
@@ -25,12 +25,10 @@ Huntress,Board 1
 BGSF,Board 1
 Symphony,Board 1
 IT Solutions Consulting,Board 1
-Egen Solutions,Board 1
 SoftNice,Board 1
 45 Solutions,Board 1
 TECHLOGIC SOLUTIONS LLC,Board 1
 Accord Innovations,Board 1
-Tek Yantra,Board 1
 10Pearls LATAM,Board 1
 Culinovo,Board 1
 Optomi,Board 1
@@ -137,15 +135,17 @@ Ambient Consulting,Board 1
 TekIntegral,Board 1
 Pyramid Consulting,Board 1
 Findem,Board 1
-Data Capital,Board 1
+Tek Yantra,Board 1
+Egen Solutions,Board 1
 MHP,Board 1
 Apolis Rises,Board 1
-Sigmoid,Board 1
+Horizontal Talent,Board 1
 Level Access,Board 1
 MAS Global Consulting,Board 1
 JBSDEV,Board 1
 CAS Cloud Accountant Staffing,Board 1
 Gentis Solutions,Board 1
+Data Capital,Board 1
 Chaintech,Board 2
 AMTEX,Board 2
 "Amyx, Inc.",Board 2
@@ -162,73 +162,75 @@ Ayden,Board 2
 Fast Cloud Consulting,Board 2
 Sottelli,Board 2
 "Minsait (in ATS, recent, no jobs)",Board 2
+IZEI Consulting Group,Board 2
+Access Global Group,Board 2
+Northware,Board 2
+McFadyen Digital,Board 2
+Sonatafy (Was on Salesbox List),Board 2
+LotusFlare,Board 2
+NeuraFlash (was on Salesbox list),Board 2
+DoyenSys,Board 2
+Vera Solutions,Board 2
+Crossvale,Board 2
+Skysys,Board 2
+Moksh Tech,Board 2
+Outliant,Board 2
+Xometry,Board 2
+Wizeline,Board 2
+Turnitin,Board 2
+Svitla Systems,Board 2
+Onebridge,Board 2
+Simetrik,Board 2
+Saturn Cloud,Board 2
+InfoSyp,Board 2
+Jade Global,Board 2
+Mindco,Board 2
+Echo Base Global,Board 2
+Avenue Code,Board 2
+Computech Corporation,Board 2
+Nutanix,Board 2
+Apex Systems,Board 2
+Trail Blazer,Board 2
+ITECS,Board 2
+a2C IT Consulting,Board 2
+Celer Soft,Board 2
+AptoNet,Board 2
+Ascension Health,Board 2
+Concentrix Catalyst,Board 2
+TalentBurst,Board 2
+Advantra Consulting,Board 2
+InfiCare Technologies,Board 2
+Spaulding Ridge,Board 2
+ServiceNow,Board 2
+Real Advancement,Board 2
+C&S Informatica (Argentinian company),Board 2
+"NTT Data (in ATS, last job 2017)",Board 2
+Fusion Consulting,Board 2
+Insulet (End Client),Board 2
+DXC Technologies,Board 2
+Zallpy Digital,Board 2
+Smart IMS Inc.,Board 2
+Main Sail,Board 2
 RESULTICKS,Board 2
+Level Access,Board 2
+Tek Ninjas,Board 2
 Clevertap,Board 2
+Talent Systems LLC,Board 2
+Arkham Technologies,Board 2
 Darwoft,Board 2
+Venon Solutions,Board 2
+Arroyo Consulting,Board 2
 Tachyus,Board 2
+CODE Éxitos,Board 2
 Picktrace,Board 2
+DEUNA (Final Client),Board 2
+TekRecruiter,Board 2
 Mirai RiskTech,Board 2
 IV.AI,Board 2
-Ryz Labs,Board 2
-TeamEx,Board 2
-Main Sail,Board 2
-Smart IMS Inc.,Board 2
-Zallpy Digital,Board 2
-DXC Technologies,Board 2
-Insulet (End Client),Board 2
-Fusion Consulting,Board 2
-"NTT Data (in ATS, last job 2017)",Board 2
-C&S Informatica (Argentinian company),Board 2
-Real Advancement,Board 2
-ServiceNow,Board 2
-Spaulding Ridge,Board 2
-InfiCare Technologies,Board 2
-Advantra Consulting,Board 2
-TalentBurst,Board 2
-Concentrix Catalyst,Board 2
-Ascension Health,Board 2
-AptoNet,Board 2
-Celer Soft,Board 2
-a2C IT Consulting,Board 2
-Level Access,Board 2
-ITECS,Board 2
-Trail Blazer,Board 2
-Apex Systems,Board 2
-Nutanix,Board 2
-Computech Corporation,Board 2
-Avenue Code,Board 2
-Echo Base Global,Board 2
-Mindco,Board 2
-Jade Global,Board 2
-InfoSyp,Board 2
-Saturn Cloud,Board 2
-Simetrik,Board 2
-Onebridge,Board 2
-Svitla Systems,Board 2
-Turnitin,Board 2
-Wizeline,Board 2
-Xometry,Board 2
-Outliant,Board 2
-Moksh Tech,Board 2
-Skysys,Board 2
-Crossvale,Board 2
-Vera Solutions,Board 2
-DoyenSys,Board 2
-LotusFlare,Board 2
-McFadyen Digital,Board 2
-Northware,Board 2
-Access Global Group,Board 2
-IZEI Consulting Group,Board 2
-Tek Ninjas,Board 2
 PruTech,Board 2
 DevSavant,Board 2
-Talent Systems LLC,Board 2
-TekRecruiter,Board 2
-DEUNA (Final Client),Board 2
-Arkham Technologies,Board 2
-CODE Éxitos,Board 2
-Arroyo Consulting,Board 2
-Venon Solutions,Board 2
+Ryz Labs,Board 2
+TeamEx,Board 2
 S&S Lab Management,Board 2
 Cube Hub,Board 2
 LaTeam Partners,Board 2
@@ -245,8 +247,6 @@ Code Signal,Board 2
 Event Mobi,Board 2
 mailerlite,Board 2
 Proxify,Board 2
-Sonatafy (Was on Salesbox List),Board 2
-NeuraFlash (was on Salesbox list),Board 2
 Brooksource,Board 2
 Payara,Board 2
 STS Worldwide,Board 2
@@ -256,39 +256,26 @@ Thortech Solutions,Board 2
 Barrel,Board 2
 Blue Coding,Board 2
 BrainTree Technology Solutions,Board 2
+Convene,Board 2
+Campspot,Board 2
+Spines,Board 2
+Freelance LATAM,Board 2
 Paired,Board 2
 Voldex,Board 2
 ConsultNet,Board 2
 Adistec,Board 2
-CelerSoft,Board 2
-L3 Harris Consulting,Board 2
-iLink Digital,Board 2
+Judge Group,Board 2
 Nitro,Board 2
 Kainos Innovative Solutions Inc,Board 2
 Motion Recruitment,Board 2
 Radient AI,Board 2
 "Solvd, Inc.",Board 2
-IdeaHelix,Board 2
 SolarWinds,Board 2
 Vantage Data Centers,Board 2
 Insight Global,Board 2
-Enroute (Monterrey company),Board 2
 Valtech,Board 2
-ACL,Board 2
-Blue Orange,Board 2
-Very Good Ventures,Board 2
 SysMap,Board 2
-Devel Group,Board 2
 Cirrius Solutions,Board 2
-LEOO,Board 2
-JFOX IT Partners,Board 2
-Gentrop,Board 2
-Platform Builders,Board 2
-Cadastra,Board 2
-Eccox (it's a Brazilian Company),Board 2
-DemandBlue,Board 2
-Advancio,Board 2
-AgileEngine,Board 2
 Orange Digital CX,Board 2
 Genzeon,Board 2
 New Era Technology,Board 2
@@ -304,6 +291,22 @@ Basware,Board 2
 Hakkoda,Board 2
 ProContacto,Board 2
 ília,Board 2
+AgileEngine,Board 2
+Advancio,Board 2
+DemandBlue,Board 2
+Eccox (it's a Brazilian Company),Board 2
+Cadastra,Board 2
+Platform Builders,Board 2
+Gentrop,Board 2
+JFOX IT Partners,Board 2
+LEOO,Board 2
+Devel Group,Board 2
+Very Good Ventures,Board 2
+Blue Orange,Board 2
+ACL,Board 2
+Enroute (Monterrey company),Board 2
+IdeaHelix,Board 2
+iLink Digital,Board 2
 Data Capital,Board 2
 Nava Software,Board 2
 Agreeya Solutions,Board 2
@@ -321,7 +324,6 @@ Signify Technology,Board 2
 Saxon Global,Board 2
 "NasTech  Global, Inc",Board 2
 Solution IT,Board 2
-Judge Group,Board 2
 World Wide Technology,Board 2
 BURGEON IT SERVICES,Board 2
 Boston Scientific Corporation,Board 2
@@ -361,3 +363,5 @@ Truelogic Software,Board 2
 Feuji,Board 2
 MAS Global Consulting,Board 2
 Ambient Consulting,Board 2
+L3 Harris Consulting,Board 2
+CelerSoft,Board 2
