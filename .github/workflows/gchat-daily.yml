@@ -1,0 +1,31 @@
+name: Send Google Chat daily summary
+
+on:
+  schedule:
+    # 09:00 America/Mexico_City (UTC-6 year-round) → 15:00 UTC, Monday–Friday
+    - cron: "0 15 * * 1-5"
+  workflow_dispatch: {}
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    # these must be set in Repo settings → Secrets and variables → Actions
+    env:
+      TRELLO_API_KEY: ${{ secrets.TRELLO_API_KEY }}
+      TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
+      GOOGLE_CHAT_WEBHOOK_URL: ${{ secrets.GOOGLE_CHAT_WEBHOOK_URL }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: python -m pip install --upgrade pip requests
+
+      - name: Post daily summary to Google Chat
+        run: python gchatdaily.py
