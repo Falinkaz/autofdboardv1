@@ -9,20 +9,39 @@ API_KEY  = os.environ.get("TRELLO_API_KEY")  or sys.exit("Missing TRELLO_API_KEY
 TOKEN    = os.environ.get("TRELLO_TOKEN")     or sys.exit("Missing TRELLO_TOKEN")
 WEBHOOK  = os.environ.get("GOOGLE_CHAT_WEBHOOK_URL") or sys.exit("Missing GOOGLE_CHAT_WEBHOOK_URL")
 
-BOARD_ID = "AQJCiqwE"  # your selected board
+BOARD_ID = "AQJCiqwE"  # my selected board (Focused Prospecting)
 LOCAL_TZ = ZoneInfo("America/Mexico_City")
 
-def day_window_previous_local(tz: ZoneInfo):
+def previous_business_window_local(tz: ZoneInfo):
+    """Return (start_utc_iso, end_utc_iso, label_local) for the *previous business day*
+    relative to 'now' in the given timezone. (Mon→Fri goes back 3 days; Tue–Fri back 1 day;
+    weekend goes back to Friday.)"""
     now_local = dt.datetime.now(tz)
-    yday = now_local.date() - dt.timedelta(days=1)
-    start_local = dt.datetime(yday.year, yday.month, yday.day, 0, 0, 0, tzinfo=tz)
+    today = now_local.date()
+    wd = today.weekday()  # Mon=0 ... Sun=6
+
+    if wd == 0:          # Monday -> Friday
+        delta_days = 3
+    elif wd == 6:        # Sunday -> Friday
+        delta_days = 2
+    elif wd == 5:        # Saturday -> Friday
+        delta_days = 1
+    else:                # Tue–Fri -> yesterday
+        delta_days = 1
+
+    prev = today - dt.timedelta(days=delta_days)
+    start_local = dt.datetime(prev.year, prev.month, prev.day, 0, 0, 0, tzinfo=tz)
     end_local   = start_local + dt.timedelta(days=1)
+
     start_utc = start_local.astimezone(dt.timezone.utc)
     end_utc   = end_local.astimezone(dt.timezone.utc)
+
+    # label like "Wed Sep 17"
+    label = prev.strftime("%a %b %d")
     return (
         start_utc.isoformat().replace("+00:00", "Z"),
         end_utc.isoformat().replace("+00:00", "Z"),
-        yday.strftime("%a %b %d"),
+        label,
     )
 
 def fetch_created_card_ids(board_id: str, since_iso_utc: str, before_iso_utc: str):
@@ -93,7 +112,7 @@ def format_message(label, counts):
     return "\n".join(lines)
 
 def main():
-    since_iso, before_iso, label = day_window_previous_local(LOCAL_TZ)
+    since_iso, before_iso, label = previous_business_window_local(LOCAL_TZ)
 
     try:
         card_ids = fetch_created_card_ids(BOARD_ID, since_iso, before_iso)
