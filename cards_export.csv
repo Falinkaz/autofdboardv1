@@ -137,6 +137,7 @@ Culinovo,Board 1
 Horizontal Talent,Board 1
 NMC Managed,Board 1
 Adbakx (4),Board 1
+Linx (6),Board 1
 Level Access,Board 1
 MHP,Board 1
 Optomi,Board 1
@@ -159,7 +160,6 @@ Data Capital,Board 1
 Chaintech,Board 2
 AMTEX,Board 2
 "Amyx, Inc.",Board 2
-"ActioNet, Inc.",Board 2
 Tech Holding,Board 2
 Digital Realty,Board 2
 Corestack,Board 2
@@ -173,6 +173,16 @@ Fast Cloud Consulting,Board 2
 Sottelli,Board 2
 "Minsait (in ATS, recent, no jobs)",Board 2
 Softka Technologies,Board 2
+Ninecon Consultores (4),Board 2
+Estuate (3),Board 2
+Charles Taylor (6),Board 2
+Mitchell Martín (6),Board 2
+Flexential,Board 2
+CleanSpark,Board 2
+Switch,Board 2
+MasterControl,Board 2
+"InterDigital, Inc.",Board 2
+Preteco (4),Board 2
 Motivus (5),Board 2
 EPAM Systems (6),Board 2
 EXEMPLAR ITS,Board 2
@@ -307,15 +317,13 @@ McFadyen Digital,Board 2
 Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
-Preteco (4),Board 2
-"InterDigital, Inc.",Board 2
-MasterControl,Board 2
-Switch,Board 2
-CleanSpark,Board 2
-Flexential,Board 2
+Spectra Logic,Board 2
+"ActioNet, Inc.",Board 2
+Lantronix,Board 2
+"Ntiva, Inc.",Board 2
+The Brixton Group (5),Board 2
 Cynet Systems (4),Board 2
 AceStack (4),Board 2
-Linx (6),Board 2
 Exomindset (5),Board 2
 PlatformX (5),Board 2
 Revna (5),Board 2
@@ -334,19 +342,12 @@ Tecla T (5),Board 2
 Tanisha Systems,Board 2
 Astreya (5),Board 2
 Comrise,Board 2
-Resource Informatics Group,Board 2
-Conduent (6),Board 2
-CoForge (7),Board 2
 DXC Technology (7),Board 2
-Accenture (7),Board 2
-ReadBeard Solutions,Board 2
-Elite Technology,Board 2
-Orga AI,Board 2
-Barrel,Board 2
-Payara,Board 2
 Mako Professionals,Board 2
 Zortech Solutions,Board 2
-SVK Technology,Board 2
+HYR Global,Board 2
+GEA,Board 2
+Gigamon,Board 2
 Miratech,Board 2
 Datum,Board 2
 Programmers.io,Board 2
@@ -359,17 +360,8 @@ Blue Coding,Board 2
 Campspot,Board 2
 Freelance LATAM,Board 2
 VDart,Board 2
-USG - United Software Group,Board 2
 Adistec,Board 2
 World Wide Technology,Board 2
-Voldex,Board 2
-Eli Lilly and Company,Board 2
-Pepsico,Board 2
-Vaco,Board 2
-Boston Scientific Corporation,Board 2
-BURGEON IT SERVICES,Board 2
-ConsultNet,Board 2
-Valtech,Board 2
 Orange Digital CX,Board 2
 Genzeon,Board 2
 New Era Technology,Board 2
@@ -408,14 +400,19 @@ ACL,Board 2
 Enroute (Monterrey company),Board 2
 IdeaHelix,Board 2
 iLink Digital,Board 2
-HYR Global,Board 2
 Centric Software,Board 2
-GlobalPros,Board 2
 Jade Global,Board 2
-MasterBrand,Board 2
+GlobalPros,Board 2
+Payara,Board 2
+Barrel,Board 2
+Orga AI,Board 2
+Elite Technology,Board 2
+ReadBeard Solutions,Board 2
+Accenture (7),Board 2
+Resource Informatics Group,Board 2
+Conduent (6),Board 2
+CoForge (7),Board 2
 Data Capital,Board 2
-Gigamon,Board 2
-GEA,Board 2
 BOSC Tech Labs Private Limited,Board 2
 "RealPage, Inc.",Board 2
 Cloud Space LLC,Board 2
@@ -428,14 +425,16 @@ Kani Solutions,Board 2
 Apton Inc,Board 2
 Girikon,Board 2
 Buchanan Technologies (4),Board 2
-GAC Solutions,Board 2
 DATAMTX,Board 2
 Amtex Enterprise,Board 2
+MasterBrand,Board 2
 SysMap,Board 2
 Eigen X,Board 2
 CloudDevs,Board 2
 Code Signal,Board 2
 mailerlite,Board 2
+SVK Technology,Board 2
+GAC Solutions,Board 2
 CAS Cloud Accountant Staffing,Board 2
 Spines,Board 2
 DevSavant,Board 2
@@ -458,6 +457,7 @@ New York Technology Partners,Board 2
 Tekton Labs,Board 2
 The Dignify Solutions,Board 2
 Adbakx (4),Board 2
+Linx (6),Board 2
 L3 Harris Consulting,Board 2
 CelerSoft,Board 2
 Sticker Mule,Board 2
@@ -496,3 +496,12 @@ Intelliswift Software Inc,Board 2
 Applaudo,Board 2
 Capco,Board 2
 Eliassen,Board 2
+USG - United Software Group,Board 2
+Voldex,Board 2
+Eli Lilly and Company,Board 2
+Pepsico,Board 2
+Vaco,Board 2
+Boston Scientific Corporation,Board 2
+BURGEON IT SERVICES,Board 2
+ConsultNet,Board 2
+Valtech,Board 2
