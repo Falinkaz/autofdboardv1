@@ -1,27 +1,9 @@
 card_name,board_name
-Exaways,Board 1
-Dyspatch,Board 1
 NearshoreInMexico,Board 1
-Intellisoft Technologies,Board 1
-LiveMindz,Board 1
-Mentour Corporation,Board 1
-UniteFans,Board 1
-Closeloop Technologies,Board 1
-Syberry,Board 1
-Tech IT Group,Board 1
-Huntress,Board 1
-BGSF,Board 1
 Symphony,Board 1
-IT Solutions Consulting,Board 1
-SoftNice,Board 1
-45 Solutions,Board 1
-Netsync Network Solutions,Board 1
 ScaleNorth,Board 1
 Eidiko Systems Integrators,Board 1
 TECHLOGIC SOLUTIONS LLC,Board 1
-Coralogix,Board 1
-HCL Technologies,Board 1
-Launch Consulting,Board 1
 Accord Innovations,Board 1
 The Brixton Group (5),Board 1
 Unosquare,Board 1
@@ -130,11 +112,28 @@ Tek Yantra,Board 1
 Egen Solutions,Board 1
 Welded Tube of Canada,Board 1
 eTeam,Board 1
+Exaways,Board 1
+Dyspatch,Board 1
+Intellisoft Technologies,Board 1
+LiveMindz,Board 1
+Mentour Corporation,Board 1
+UniteFans,Board 1
+Closeloop Technologies,Board 1
+Syberry,Board 1
+Tech IT Group,Board 1
+Huntress,Board 1
+BGSF,Board 1
+IT Solutions Consulting,Board 1
+SoftNice,Board 1
+45 Solutions,Board 1
+Netsync Network Solutions,Board 1
+Coralogix,Board 1
+HCL Technologies,Board 1
+Launch Consulting,Board 1
 Culinovo,Board 1
 Sigmoid,Board 1
 Black Diamond,Board 1
 NeelBlue Technology (3),Board 1
-Level Access,Board 1
 Software Guidance & Assistance (SGA),Board 1
 Pyramid Consulting,Board 1
 Nava Software,Board 1
@@ -155,11 +154,13 @@ Innovative Information Technologies,Board 1
 Peterson Technology Partners Inc.,Board 1
 AVM Consulting,Board 1
 LTImindtree,Board 1
+Parmesoft Inc,Board 1
 MAS Global Consulting,Board 1
 JBSDEV,Board 1
 CAS Cloud Accountant Staffing,Board 1
 Gentis Solutions,Board 1
 Data Capital,Board 1
+Level Access,Board 1
 10Pearls LATAM,Board 1
 Chaintech,Board 2
 AMTEX,Board 2
@@ -177,6 +178,17 @@ Fast Cloud Consulting,Board 2
 Sottelli,Board 2
 "Minsait (in ATS, recent, no jobs)",Board 2
 Softka Technologies,Board 2
+Teceze,Board 2
+Veritis,Board 2
+9Series (4),Board 2
+Agilant Solutions (6),Board 2
+Allbridge (5),Board 2
+OpenSpace,Board 2
+eMazzanti,Board 2
+MoxiWorks,Board 2
+Becklar,Board 2
+HammerSpace,Board 2
+Rand Group,Board 2
 Anju (5),Board 2
 Aravo (7),Board 2
 ArcLight Consulting (5),Board 2
@@ -190,9 +202,7 @@ ArcherPoint,Board 2
 Vision Technologies,Board 2
 Myers-Holum,Board 2
 Panopto,Board 2
-Hubilo,Board 2
 Cyclomedia,Board 2
-AppSquadz,Board 2
 Authentix,Board 2
 Magna5,Board 2
 Focus Technology,Board 2
@@ -340,7 +350,6 @@ Fusion Consulting,Board 2
 C&S Informatica (Argentinian company),Board 2
 Real Advancement,Board 2
 ServiceNow,Board 2
-Spaulding Ridge,Board 2
 InfiCare Technologies,Board 2
 Advantra Consulting,Board 2
 TalentBurst,Board 2
@@ -377,13 +386,11 @@ McFadyen Digital,Board 2
 Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
-Rand Group,Board 2
-HammerSpace,Board 2
-Becklar,Board 2
-MoxiWorks,Board 2
-eMazzanti,Board 2
-OpenSpace,Board 2
-Dynamic Systems Inc,Board 2
+"T-Rex Solutions, LLC",Board 2
+VMD Corp,Board 2
+MetroStar,Board 2
+CAQH,Board 2
+CDNetworks,Board 2
 Zortech Solutions,Board 2
 Tanisha Systems,Board 2
 DXC Technology (7),Board 2
@@ -456,6 +463,10 @@ Maitsys,Board 2
 Engineering Square,Board 2
 Northern Base,Board 2
 Talent Digger,Board 2
+Dynamic Systems Inc,Board 2
+Hubilo,Board 2
+AppSquadz,Board 2
+Spaulding Ridge,Board 2
 Netrix Global,Board 2
 Greenlife Healthcare Staffing,Board 2
 Protera (5),Board 2
@@ -544,7 +555,6 @@ Sigmoid,Board 2
 Truelogic Software,Board 2
 Feuji,Board 2
 MAS Global Consulting,Board 2
-Parmesoft Inc,Board 2
 Ambient Consulting,Board 2
 Unosquare,Board 2
 New York Technology Partners,Board 2
