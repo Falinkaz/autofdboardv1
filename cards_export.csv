@@ -165,7 +165,6 @@ Level Access,Board 1
 10Pearls LATAM,Board 1
 Chaintech,Board 2
 AMTEX,Board 2
-"Amyx, Inc.",Board 2
 Tech Holding,Board 2
 Digital Realty,Board 2
 Corestack,Board 2
@@ -179,6 +178,30 @@ Fast Cloud Consulting,Board 2
 Sottelli,Board 2
 "Minsait (in ATS, recent, no jobs)",Board 2
 Softka Technologies,Board 2
+"Amyx, Inc.",Board 2
+Powdevs,Board 2
+SAIC,Board 2
+Bounteous (5),Board 2
+Tellabs  (4),Board 2
+QTS Data Center (6),Board 2
+D&H Distributing (6),Board 2
+CareCloud,Board 2
+Sharp Decisions,Board 2
+Danavero (3),Board 2
+Microtech IT (4),Board 2
+HireRight (7),Board 2
+Chargebee (6),Board 2
+DearDoc (5),Board 2
+Stratacent (5),Board 2
+SkyePoint Decisions (5),Board 2
+Tantus Technologies (5),Board 2
+Comtech Global (4),Board 2
+RTX Corporation (Raytheon) (6),Board 2
+CDNetworks,Board 2
+CAQH,Board 2
+MetroStar,Board 2
+VMD Corp,Board 2
+"T-Rex Solutions, LLC",Board 2
 Teceze,Board 2
 Veritis,Board 2
 9Series (4),Board 2
@@ -190,12 +213,9 @@ MoxiWorks,Board 2
 Becklar,Board 2
 HammerSpace,Board 2
 Rand Group,Board 2
-Anju (5),Board 2
 Aravo (7),Board 2
 ArcLight Consulting (5),Board 2
-Group Nine (2),Board 2
 Irvine Technology Corporation (ITC) (3),Board 2
-Bhavna (5),Board 2
 BigStep Technologies (5),Board 2
 BRMi (5),Board 2
 Grantek,Board 2
@@ -294,7 +314,6 @@ Upwork,Board 2
 Mistral AI,Board 2
 3Cloud (4),Board 2
 enVista (3),Board 2
-Korn Ferry,Board 2
 Enexus Global,Board 2
 Computer Merchant,Board 2
 Aventior,Board 2
@@ -386,22 +405,16 @@ McFadyen Digital,Board 2
 Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
-"T-Rex Solutions, LLC",Board 2
-VMD Corp,Board 2
-MetroStar,Board 2
-CAQH,Board 2
-CDNetworks,Board 2
-RTX Corporation (Raytheon) (6),Board 2
-Comtech Global (4),Board 2
-Tantus Technologies,Board 2
-SkyePoint Decisions,Board 2
-Stratacent,Board 2
-DearDoc,Board 2
-Chargebee,Board 2
-HireRight,Board 2
-Microtech IT,Board 2
-Danavero,Board 2
-Sharp Decisions,Board 2
+Everspring,Board 2
+Particle,Board 2
+Solifi,Board 2
+CG Infinity,Board 2
+Slipstream IT,Board 2
+Blue Mantis,Board 2
+Key Code Media,Board 2
+Advance2000,Board 2
+Net at Work,Board 2
+Bhavna (5),Board 2
 Zortech Solutions,Board 2
 Tanisha Systems,Board 2
 DXC Technology (7),Board 2
@@ -478,6 +491,7 @@ Dynamic Systems Inc,Board 2
 Hubilo,Board 2
 AppSquadz,Board 2
 Spaulding Ridge,Board 2
+Anju (5),Board 2
 Netrix Global,Board 2
 Greenlife Healthcare Staffing,Board 2
 Protera (5),Board 2
@@ -495,6 +509,8 @@ Inspiredge (5),Board 2
 ConfigUSA (3),Board 2
 BigPanda (5),Board 2
 IT Convergence,Board 2
+Group Nine (2),Board 2
+Korn Ferry,Board 2
 Apton Inc,Board 2
 Kani Solutions,Board 2
 Girikon,Board 2
