@@ -1,4 +1,7 @@
 card_name,board_name
+Tellabs  (4),Board 1
+HR Link Group (1),Board 1
+Black Diamond,Board 1
 Aevitas (1),Board 1
 NearshoreInMexico,Board 1
 Symphony,Board 1
@@ -134,9 +137,7 @@ HCL Technologies,Board 1
 Launch Consulting,Board 1
 Culinovo,Board 1
 Sigmoid,Board 1
-Black Diamond,Board 1
-HR Link Group (1),Board 1
-Tellabs  (4),Board 1
+Vetta (5),Board 1
 GNC-Consulting,Board 1
 Software Guidance & Assistance (SGA),Board 1
 Pyramid Consulting,Board 1
@@ -146,7 +147,8 @@ Tekton Labs,Board 1
 Adbakx (4),Board 1
 Linx (6),Board 1
 Brintell (5),Board 1
-MHP,Board 1
+Perfetti Van Melle,Board 1
+Sharp Decisions,Board 1
 Optomi,Board 1
 Truelogic Software,Board 1
 Catalyte,Board 1
@@ -161,6 +163,7 @@ LTImindtree,Board 1
 Parmesoft Inc,Board 1
 The Silicon Partners Inc,Board 1
 MAS Global Consulting,Board 1
+MHP,Board 1
 JBSDEV,Board 1
 CAS Cloud Accountant Staffing,Board 1
 Gentis Solutions,Board 1
@@ -449,10 +452,18 @@ Arctic IT,Board 2
 Alpha,Board 2
 SVK Systems Inc,Board 2
 H5 Data Centers,Board 2
+Apetan Consulting,Board 2
+OHM Systems,Board 2
+Data Network,Board 2
+1 Point System,Board 2
+nexxia,Board 2
+Uptime Institute,Board 2
+BQE Software,Board 2
+InfyStrat,Board 2
+Narvar,Board 2
 Becklar,Board 2
 Diligent,Board 2
 MoxiWorks,Board 2
-Perfetti Van Melle,Board 2
 Zortech Solutions,Board 2
 Lateral Group (5),Board 2
 Morgan Stanley (5),Board 2
@@ -472,7 +483,6 @@ Confiz (5),Board 2
 Hyland Software (7),Board 2
 OZ (5),Board 2
 innolevels (5),Board 2
-Vetta (5),Board 2
 Motivus (5),Board 2
 Astreya (5),Board 2
 Pulsati (4),Board 2
@@ -613,7 +623,6 @@ Culinovo,Board 2
 Horizontal Talent,Board 2
 10Pearls LATAM,Board 2
 Gentis Solutions,Board 2
-Sharp Decisions,Board 2
 McKinsol Consulting Inc,Board 2
 KONNECTINGTREE INC,Board 2
 Pyramid Consulting,Board 2
@@ -635,6 +644,7 @@ NeelBlue Technology (3),Board 2
 Aevitas (1),Board 2
 HR Link Group (1),Board 2
 Tellabs  (4),Board 2
+Vetta (5),Board 2
 L3 Harris Consulting,Board 2
 CelerSoft,Board 2
 Sticker Mule,Board 2
