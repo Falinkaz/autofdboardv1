@@ -7,8 +7,6 @@ NearshoreInMexico,Board 1
 Symphony,Board 1
 ScaleNorth,Board 1
 Eidiko Systems Integrators,Board 1
-TECHLOGIC SOLUTIONS LLC,Board 1
-Accord Innovations,Board 1
 NeelBlue Technology (3),Board 1
 The Brixton Group (5),Board 1
 Unosquare,Board 1
@@ -35,6 +33,7 @@ Gibitnet,Board 1
 Voto Consulting,Board 1
 Business Integra,Board 1
 KTEK Resourcing,Board 1
+Nava Software,Board 1
 Feuji,Board 1
 datanetiix,Board 1
 Involgix,Board 1
@@ -138,10 +137,11 @@ Launch Consulting,Board 1
 Culinovo,Board 1
 Sigmoid,Board 1
 Vetta (5),Board 1
+Creative Synergies Group,Board 1
+Black Box,Board 1
 GNC-Consulting,Board 1
+Data Network,Board 1
 Software Guidance & Assistance (SGA),Board 1
-Pyramid Consulting,Board 1
-Nava Software,Board 1
 New York Technology Partners,Board 1
 Tekton Labs,Board 1
 Adbakx (4),Board 1
@@ -169,6 +169,9 @@ CAS Cloud Accountant Staffing,Board 1
 Gentis Solutions,Board 1
 Data Capital,Board 1
 Level Access,Board 1
+TECHLOGIC SOLUTIONS LLC,Board 1
+Accord Innovations,Board 1
+Pyramid Consulting,Board 1
 10Pearls LATAM,Board 1
 Chaintech,Board 2
 AMTEX,Board 2
@@ -185,28 +188,36 @@ Fast Cloud Consulting,Board 2
 Sottelli,Board 2
 "Minsait (in ATS, recent, no jobs)",Board 2
 Softka Technologies,Board 2
-rtCamp (4),Board 2
-Sparq (6),Board 2
+ROKT,Board 2
+Saleo,Board 2
+Sentry (5),Board 2
+ServerFarm,Board 2
+KPG 99 Inc,Board 2
+Tata Elxsi,Board 2
+Narvar,Board 2
+InfyStrat,Board 2
+BQE Software,Board 2
+Uptime Institute,Board 2
+1 Point System,Board 2
+Apetan Consulting,Board 2
+H5 Data Centers,Board 2
+SVK Systems Inc,Board 2
+Alpha,Board 2
+Arctic IT,Board 2
+Medicus,Board 2
 SplitMetrics (5),Board 2
-SupportNinja (7),Board 2
 Techunting (6),Board 2
 Netstock,Board 2
-Knovos,Board 2
 Ana-Data Consulting,Board 2
 GigaSpaces,Board 2
-Beyond Limits,Board 2
-Alphabold,Board 2
 Eclypsium,Board 2
 Tevora (5),Board 2
 Thunder (4),Board 2
 Trax Retail (5),Board 2
 TrustedQA (5),Board 2
 Upbound (5),Board 2
-Workana (4),Board 2
 Orium (5),Board 2
-Shimentox,Board 2
 Verinext (5),Board 2
-Vistas Global (4),Board 2
 Volanno (3),Board 2
 MCA Connect,Board 2
 Austin Hughes Pte. Ltd,Board 2
@@ -214,9 +225,7 @@ Stayntouch,Board 2
 Yooz,Board 2
 Radiant Digital,Board 2
 HG Insights,Board 2
-WinWire (6),Board 2
 YipitData (2),Board 2
-YuJa (5),Board 2
 Zachary Piper (5),Board 2
 Zapier (7),Board 2
 Net at Work,Board 2
@@ -233,7 +242,6 @@ SAIC,Board 2
 Bounteous (5),Board 2
 QTS Data Center (6),Board 2
 D&H Distributing (6),Board 2
-CareCloud,Board 2
 Danavero (3),Board 2
 Microtech IT (4),Board 2
 HireRight (7),Board 2
@@ -274,7 +282,6 @@ WSO2,Board 2
 Choice Solutions (4),Board 2
 Datafied (4),Board 2
 EdgeConneX (5),Board 2
-Euna Solutions (7),Board 2
 nClouds,Board 2
 XTIVIA,Board 2
 DAS Health,Board 2
@@ -447,60 +454,43 @@ McFadyen Digital,Board 2
 Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
-Medicus,Board 2
-Arctic IT,Board 2
-Alpha,Board 2
-SVK Systems Inc,Board 2
-H5 Data Centers,Board 2
-Apetan Consulting,Board 2
-OHM Systems,Board 2
-Data Network,Board 2
-1 Point System,Board 2
-nexxia,Board 2
-Uptime Institute,Board 2
-BQE Software,Board 2
-InfyStrat,Board 2
-Narvar,Board 2
-Becklar,Board 2
-Diligent,Board 2
-MoxiWorks,Board 2
-Zortech Solutions,Board 2
-Lateral Group (5),Board 2
-Morgan Stanley (5),Board 2
-EPAM Systems (6),Board 2
-Perficient (5),Board 2
-EcommIT (3),Board 2
-Charles Taylor (6),Board 2
-Excel Nearshore (5),Board 2
-Mitchell Martín (6),Board 2
-Quid Solutions (3),Board 2
-Stefanini Brasil (5),Board 2
-Eurofins (5),Board 2
-Aroha Tech (5),Board 2
+ShorePoint,Board 2
+"Vitria Technology, Inc.",Board 2
+Praescient Analytics,Board 2
+Knovos,Board 2
+Alphabold,Board 2
+Beyond Limits,Board 2
+Shimentox,Board 2
+BOSC Tech Labs Private Limited,Board 2
+Centric Software,Board 2
+"RealPage, Inc.",Board 2
+Strata Clean Energy,Board 2
+Cloud Space LLC,Board 2
+Maitsys,Board 2
+Engineering Square,Board 2
+Talent Digger,Board 2
+Northern Base,Board 2
+Apton Inc,Board 2
+Girikon,Board 2
+Kani Solutions,Board 2
 Mako Professionals,Board 2
-Randstad (3),Board 2
-Confiz (5),Board 2
-Hyland Software (7),Board 2
-OZ (5),Board 2
-innolevels (5),Board 2
-Motivus (5),Board 2
-Astreya (5),Board 2
-Pulsati (4),Board 2
-Comrise,Board 2
-EBS-IT (4),Board 2
-Impelsys,Board 2
-BMC Software (6),Board 2
-Cynet Systems (4),Board 2
+Aroha Tech (5),Board 2
+Eurofins (5),Board 2
+Stefanini Brasil (5),Board 2
+Quid Solutions (3),Board 2
+Mitchell Martín (6),Board 2
+Excel Nearshore (5),Board 2
+Charles Taylor (6),Board 2
+EcommIT (3),Board 2
+Perficient (5),Board 2
+EPAM Systems (6),Board 2
+Morgan Stanley (5),Board 2
+Lateral Group (5),Board 2
 Tecla T (5),Board 2
 Imagemaker (5),Board 2
 Extend IT (5),Board 2
 GFT Technologies (6),Board 2
 Revna (5),Board 2
-PlatformX (5),Board 2
-Exomindset (5),Board 2
-AceStack (4),Board 2
-Tanisha Systems,Board 2
-Gigamon,Board 2
 Orange Digital CX,Board 2
 Genzeon,Board 2
 New Era Technology,Board 2
@@ -542,30 +532,48 @@ ACL,Board 2
 Enroute (Monterrey company),Board 2
 IdeaHelix,Board 2
 iLink Digital,Board 2
+ConfigUSA (3),Board 2
+Inspiredge (5),Board 2
+Codup (4),Board 2
 Azkait (5),Board 2
-Buchanan Technologies (4),Board 2
-Intetics (5),Board 2
-Kani Solutions,Board 2
-Girikon,Board 2
+PlatformX (5),Board 2
+Exomindset (5),Board 2
+AceStack (4),Board 2
+Tanisha Systems,Board 2
+Gigamon,Board 2
 Accenture (7),Board 2
 Resource Informatics Group,Board 2
 Data Capital,Board 2
-Apton Inc,Board 2
-BigPanda (5),Board 2
-Talent Digger,Board 2
-Northern Base,Board 2
-CereCore (5),Board 2
-Comtech Global (4),Board 2
-BRMi (5),Board 2
-Bhavna (5),Board 2
-Anju (5),Board 2
-Group Nine (2),Board 2
-Korn Ferry,Board 2
+Euna Solutions (7),Board 2
+YuJa (5),Board 2
+Vistas Global (4),Board 2
+WinWire (6),Board 2
+Workana (4),Board 2
+CareCloud (5),Board 2
+nexxia (5),Board 2
+OHM Systems (5),Board 2
+rtCamp (4),Board 2
+Perpetual Talent Solutions,Board 2
+SupportNinja (7),Board 2
+Sparq (6),Board 2
+Diligent,Board 2
+Becklar,Board 2
+MoxiWorks,Board 2
 Lumenalta (6),Board 2
+Korn Ferry,Board 2
+Group Nine (3),Board 2
+Anju (5),Board 2
+Bhavna (5),Board 2
+BRMi (5),Board 2
+Comtech Global (4),Board 2
+CereCore (5),Board 2
 Spaulding Ridge,Board 2
-AppSquadz,Board 2
 Hubilo,Board 2
 Dynamic Systems Inc,Board 2
+AppSquadz,Board 2
+Zortech Solutions,Board 2
+Intetics (5),Board 2
+BigPanda (5),Board 2
 Netrix Global,Board 2
 Greenlife Healthcare Staffing,Board 2
 Protera (5),Board 2
@@ -573,19 +581,8 @@ Geniusee (5),Board 2
 InRhythm (5),Board 2
 Complete Staffing Solutions,Board 2
 ioet (5),Board 2
-Azkait,Board 2
 Devcare Solutions (5),Board 2
-Codup (4),Board 2
-Inspiredge (5),Board 2
-ConfigUSA (3),Board 2
 IT Convergence,Board 2
-Engineering Square,Board 2
-Maitsys,Board 2
-Cloud Space LLC,Board 2
-Strata Clean Energy,Board 2
-"RealPage, Inc.",Board 2
-Centric Software,Board 2
-BOSC Tech Labs Private Limited,Board 2
 SVK Technology,Board 2
 GAC Solutions,Board 2
 Russell Tobin,Board 2
@@ -602,18 +599,32 @@ Payara,Board 2
 Miratech,Board 2
 HYR Global,Board 2
 MasterBrand,Board 2
+Ninecon Consultores (4),Board 2
 Elite Technology,Board 2
 Qualitest (5),Board 2
 Greymatter Innovationz,Board 2
 GEA,Board 2
 Conduent (6),Board 2
 CoForge (7),Board 2
+Motivus (5),Board 2
+Impelsys,Board 2
+BMC Software (6),Board 2
+Confiz (5),Board 2
+Hyland Software (7),Board 2
+OZ (5),Board 2
+Pulsati (4),Board 2
+EBS-IT (4),Board 2
+Astreya (5),Board 2
+Comrise,Board 2
+Cynet Systems (4),Board 2
+Randstad (3),Board 2
+innolevels (5),Board 2
 World Wide Technology,Board 2
 SysMap,Board 2
 Eigen X,Board 2
+Buchanan Technologies (4),Board 2
 Amtex Enterprise,Board 2
 DATAMTX,Board 2
-Ninecon Consultores (4),Board 2
 CAS Cloud Accountant Staffing,Board 2
 Spines,Board 2
 DevSavant,Board 2
@@ -645,6 +656,7 @@ Aevitas (1),Board 2
 HR Link Group (1),Board 2
 Tellabs  (4),Board 2
 Vetta (5),Board 2
+Data Network,Board 2
 L3 Harris Consulting,Board 2
 CelerSoft,Board 2
 Sticker Mule,Board 2
