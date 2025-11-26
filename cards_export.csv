@@ -1,13 +1,12 @@
 card_name,board_name
-ScaleNorth,Board 1
-Black Diamond,Board 1
 Black Box,Board 1
 Adbakx (4),Board 1
 HR Link Group (1),Board 1
 New York Technology Partners,Board 1
 Eidiko Systems Integrators,Board 1
-Jubilant Consulting,Board 1
+Black Diamond,Board 1
 Tanisha Systems,Board 1
+Jubilant Consulting,Board 1
 Creative Synergies Group,Board 1
 Perfetti Van Melle,Board 1
 NeelBlue Technology (3),Board 1
@@ -134,6 +133,7 @@ Ambient Consulting,Board 1
 Apex Systems,Board 1
 Software Guidance & Assistance (SGA),Board 1
 Vetta (5),Board 1
+ScaleNorth,Board 1
 Aevitas (1),Board 1
 Tekton Labs,Board 1
 Linx (6),Board 1
@@ -192,6 +192,15 @@ Fast Cloud Consulting,Board 2
 Sottelli,Board 2
 "Minsait (in ATS, recent, no jobs)",Board 2
 Softka Technologies,Board 2
+Netsurit (5),Board 2
+Bart & Associates (4),Board 2
+Blue Mantis (5),Board 2
+Bluum (5),Board 2
+Csquare (6),Board 2
+MCI Companies,Board 2
+Impact Networking,Board 2
+GDT - General Datatech,Board 2
+Visual Edge IT,Board 2
 Decypher (4),Board 2
 Denovo (4),Board 2
 Dev-Pro (5),Board 2
@@ -218,7 +227,6 @@ Mozilla,Board 2
 "Peak Technologies, Inc.",Board 2
 mProgen (3),Board 2
 REI Systems,Board 2
-MetaSource,Board 2
 Quorum Software,Board 2
 AIS(Applied Information Sciences),Board 2
 Squarespace,Board 2
@@ -535,16 +543,16 @@ McFadyen Digital,Board 2
 Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
-Visual Edge IT,Board 2
-LeverX,Board 2
-GDT - General Datatech,Board 2
-Impact Networking,Board 2
-MCI Companies,Board 2
-Wise Skulls LLC,Board 2
-Csquare,Board 2
-Bluum,Board 2
-Blue Mantis,Board 2
-Bart & Associates,Board 2
+AXON Networks,Board 2
+Authority Partners,Board 2
+AttainX,Board 2
+Aris Global,Board 2
+Redhorse Corporation,Board 2
+Spinnaker Support,Board 2
+Yorktel,Board 2
+"SADA, An Insight company",Board 2
+CriticalRiver Inc.,Board 2
+MetaSource,Board 2
 Qualis1,Board 2
 Programmers.io,Board 2
 Datum IT,Board 2
@@ -614,81 +622,76 @@ Blue Orange,Board 2
 ACL,Board 2
 Enroute (Monterrey company),Board 2
 IdeaHelix,Board 2
-Info-Matrix (6),Board 2
-TalentBridge (5),Board 2
+Osi Vision (5),Board 2
+NexZenTek (4),Board 2
 London Stock Exchange Group (LSEG) (8),Board 2
-Teknikoz,Board 2
-My IT LLC (4),Board 2
-Pro Integrate (3),Board 2
 Zortech Solutions,Board 2
 PlatformX (5),Board 2
 Exomindset (5),Board 2
 AceStack (4),Board 2
 Gigamon,Board 2
 Data Capital,Board 2
-Veear (4),Board 2
-ClifyX (3),Board 2
-InvoZone (6),Board 2
-Lightspeed Systems (7),Board 2
+Optimizely (9),Board 2
+Euna Solutions (7),Board 2
+YuJa (5),Board 2
 Lovelytics (5),Board 2
 GyanSys (6),Board 2
-Improving,Board 2
-"EverService Holdings, LLC",Board 2
-ISG (Information Services Group),Board 2
-Cennox,Board 2
+LeverX,Board 2
+Wise Skulls LLC,Board 2
+Jabil Circuit (6),Board 2
+Networking For Future (NFF) (5),Board 2
 Trianz,Board 2
 Damco Solutions,Board 2
-MacPaw (8),Board 2
-EchoStor Technologies,Board 2
-IntelliGenesis,Board 2
-New Charter Technologies,Board 2
-Jabil Circuit (6),Board 2
-Machinify (8),Board 2
-Mobiz IT (4),Board 2
-Netsurit (5),Board 2
-Nexify Infosystems,Board 2
-NexZenTek (4),Board 2
-Networking For Future (NFF) (5),Board 2
-Optimizely (9),Board 2
-Osi Vision (5),Board 2
-SplitMetrics (5),Board 2
-Red Signal (3),Board 2
-Marco Technologies (6),Board 2
-Mozilla (8),Board 2
-Novatech  (6),Board 2
-Precision Technologies (5),Board 2
-ROKT (8),Board 2
-RevInfotech (3),Board 2
-Redpath Consulting (5),Board 2
-Red River (5),Board 2
-Purple Drive Technologies (5),Board 2
+Cennox,Board 2
+ISG (Information Services Group),Board 2
+"EverService Holdings, LLC",Board 2
+Improving,Board 2
 Proxet (5),Board 2
-Prolifics (5),Board 2
-Pliancy (5),Board 2
-Saleo (4),Board 2
+Mobiz IT (4),Board 2
+Veear (4),Board 2
+SplitMetrics (5),Board 2
+Lightspeed Systems (7),Board 2
+Machinify (8),Board 2
+InvoZone (6),Board 2
+ClifyX (3),Board 2
+Nexify Infosystems,Board 2
+MacPaw (8),Board 2
+Pro Integrate (3),Board 2
+My IT LLC (4),Board 2
+TalentBridge (5),Board 2
+Info-Matrix (6),Board 2
 Sentry (7),Board 2
-ServerFarm (5),Board 2
-BOSC Tech Labs Private Limited,Board 2
-Shimentox,Board 2
-DATAMTX,Board 2
-nexxia (5),Board 2
-CareCloud (5),Board 2
-WinWire (6),Board 2
+Marco Technologies (6),Board 2
+Prolifics (5),Board 2
+New Charter Technologies,Board 2
+IntelliGenesis,Board 2
+EchoStor Technologies,Board 2
+Teknikoz,Board 2
 Vistas Global (4),Board 2
+Pliancy (5),Board 2
+Mozilla (8),Board 2
+Red Signal (3),Board 2
+Purple Drive Technologies (5),Board 2
+Red River (5),Board 2
+Redpath Consulting (5),Board 2
+RevInfotech (3),Board 2
+ROKT (8),Board 2
+Precision Technologies (5),Board 2
+Saleo (4),Board 2
+ServerFarm (5),Board 2
+Novatech  (6),Board 2
 Perpetual Talent Solutions,Board 2
 SupportNinja (7),Board 2
 Sparq (6),Board 2
-YuJa (5),Board 2
-Euna Solutions (7),Board 2
-OHM Systems (5),Board 2
+WinWire (6),Board 2
 Workana (4),Board 2
+CareCloud (5),Board 2
+nexxia (5),Board 2
 rtCamp (4),Board 2
-Diksha Technologies,Board 2
-Applied Digital,Board 2
-Beyond Limits,Board 2
-RIA Advisory,Board 2
-Knovos,Board 2
-Alphabold,Board 2
+OHM Systems (5),Board 2
+Shimentox,Board 2
+DATAMTX,Board 2
+BOSC Tech Labs Private Limited,Board 2
 ReadBeard Solutions,Board 2
 Barrel,Board 2
 Orga AI,Board 2
@@ -762,9 +765,15 @@ Group Nine (3),Board 2
 Comtech Global (4),Board 2
 Lumenalta (6),Board 2
 Korn Ferry,Board 2
+Alphabold,Board 2
+Knovos,Board 2
+RIA Advisory,Board 2
+Applied Digital,Board 2
 MoxiWorks,Board 2
 Becklar,Board 2
 Diligent,Board 2
+Diksha Technologies,Board 2
+Beyond Limits,Board 2
 Software Guidance & Assistance (SGA),Board 2
 Culinovo,Board 2
 Horizontal Talent,Board 2
