@@ -642,33 +642,37 @@ Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
 ProHiring,Board 2
-Ascendion,Board 2
-Lupus Consulting,Board 2
-TechNatives,Board 2
-AlphaSights,Board 2
-LunaJoy Health,Board 2
-Dynadok,Board 2
-Element Technologies,Board 2
-Wimmer Solutions,Board 2
+Ascendion (7),Board 2
+Lupus Consulting (3),Board 2
+TechNatives (3),Board 2
+AlphaSights (6),Board 2
+LunaJoy Health (4),Board 2
+Dynadok (5),Board 2
+Element Technologies (2),Board 2
+Wimmer Solutions (5),Board 2
 Red Oak Technologies,Board 2
-Next Ventures,Board 2
-Pedrolga,Board 2
-Envision Horizons,Board 2
-Bitso,Board 2
-LatinHire,Board 2
-Wonolo,Board 2
-Tholons,Board 2
-Braintrust,Board 2
-Jobgether,Board 2
-Trailmerge,Board 2
-Techifide Ltd,Board 2
-Tsoft,Board 2
-InApp (4),Board 2
-iFlow (5),Board 2
-Montek System (5),Board 2
-Fastbreak AI (6),Board 2
-EVOTEK (5),Board 2
-Dev.Pro (5),Board 2
+Next Ventures (5),Board 2
+Pedrolga (2),Board 2
+Envision Horizons (4),Board 2
+Bitso (6),Board 2
+LatinHire (1),Board 2
+Wonolo (3),Board 2
+Tholons (2),Board 2
+Braintrust (4),Board 2
+Jobgether (3),Board 2
+Trailmerge (2),Board 2
+Techifide Ltd (3),Board 2
+Tsoft (4),Board 2
+Infinity Tech solutions LLC,Board 2
+Auxis,Board 2
+REDLEO SOFTWARE INC.,Board 2
+Mriti InfoSystems Inc.,Board 2
+Stefanini North America and APAC,Board 2
+Vonage,Board 2
+Entellux,Board 2
+"LanceSoft, Inc.",Board 2
+"Meridial Marketplace, by Invisible",Board 2
+"Synergy Business Consulting, Inc.",Board 2
 BRMi (5),Board 2
 AssureSoft,Board 2
 DevSavant,Board 2
@@ -735,45 +739,17 @@ Enroute (Monterrey company),Board 2
 IdeaHelix,Board 2
 Zortech Solutions,Board 2
 Data Capital,Board 2
+MacPaw (8),Board 2
+NexZenTek (4),Board 2
+Osi Vision (5),Board 2
+London Stock Exchange Group (LSEG) (8),Board 2
+Optimizely (9),Board 2
+TalentBridge (5),Board 2
 Info-Matrix (6),Board 2
 My IT LLC (4),Board 2
 InvoZone (6),Board 2
-Lightspeed Systems (7),Board 2
-SplitMetrics (5),Board 2
 GyanSys (6),Board 2
 "SADA, An Insight company",Board 2
-Techunting (6),Board 2
-Glorium Technologies (5),Board 2
-HireRight (7),Board 2
-ArcLight Consulting (5),Board 2
-Quadrant Technologies (5),Board 2
-Duda (5),Board 2
-Decypher (4),Board 2
-Aris Global (4),Board 2
-AMDEX (5),Board 2
-AttainX (5),Board 2
-Hikru (3),Board 2
-Brivia (5),Board 2
-Mriti InfoSystems (5),Board 2
-Biwares (4),Board 2
-LISIT (3),Board 2
-SoftPlan (3),Board 2
-Lionbridge Games (3),Board 2
-Brinks (8),Board 2
-NBCUniversal (6),Board 2
-TransPerfect (5),Board 2
-SoftwareOne (6),Board 2
-Indra Colombia (6),Board 2
-Banco Falabella Chile (3),Board 2
-Consultec-TI (3),Board 2
-Emerson (5),Board 2
-EVT IT (4),Board 2
-It4us (3),Board 2
-Infocodec Solutions,Board 2
-Aquiva Labs (4),Board 2
-Kairos Technologies (4),Board 2
-Walter Tools (3),Board 2
-S4 Analytics (5),Board 2
 Pantheon (5),Board 2
 ERPA (7),Board 2
 PMY Group (5),Board 2
@@ -782,34 +758,68 @@ Iron Mountain (8),Board 2
 IFIT Solutions (5),Board 2
 Ingeniosi (6),Board 2
 TekRecruiter,Board 2
-Lovelytics (5),Board 2
-Jabil Circuit (6),Board 2
-Networking For Future (NFF) (5),Board 2
-Evrone (5),Board 2
 LeverX,Board 2
 Wise Skulls LLC,Board 2
 MetaSource,Board 2
-TalentBridge (5),Board 2
-Optimizely (9),Board 2
-London Stock Exchange Group (LSEG) (8),Board 2
-NexZenTek (4),Board 2
-Osi Vision (5),Board 2
-MacPaw (8),Board 2
 Improving,Board 2
+S4 Analytics (5),Board 2
+Decypher (4),Board 2
+AttainX (5),Board 2
+AMDEX (5),Board 2
+Aris Global (4),Board 2
+Duda (5),Board 2
+Quadrant Technologies (5),Board 2
+ArcLight Consulting (5),Board 2
+HireRight (7),Board 2
+Glorium Technologies (5),Board 2
+Techunting (6),Board 2
+Dev.Pro (5),Board 2
+Fastbreak AI (6),Board 2
+EVOTEK (5),Board 2
+Montek System (5),Board 2
+SoftPlan (3),Board 2
+LISIT (3),Board 2
+Biwares (4),Board 2
+Mriti InfoSystems (5),Board 2
+Brivia (5),Board 2
+Hikru (3),Board 2
+Walter Tools (3),Board 2
+Kairos Technologies (4),Board 2
+Aquiva Labs (4),Board 2
+Infocodec Solutions,Board 2
+It4us (3),Board 2
+EVT IT (4),Board 2
+Emerson (5),Board 2
+Banco Falabella Chile (3),Board 2
+Consultec-TI (3),Board 2
+Indra Colombia (6),Board 2
+SoftwareOne (6),Board 2
+TransPerfect (5),Board 2
+Lionbridge Games (3),Board 2
+NBCUniversal (6),Board 2
+Brinks (8),Board 2
+iFlow (5),Board 2
+InApp (4),Board 2
+Jabil Circuit (6),Board 2
+Networking For Future (NFF) (5),Board 2
+Evrone (5),Board 2
+Lovelytics (5),Board 2
 "EverService Holdings, LLC",Board 2
 ISG (Information Services Group),Board 2
 Cennox,Board 2
 Damco Solutions,Board 2
 Trianz,Board 2
 Teknikoz,Board 2
-Marco Technologies (6),Board 2
-Veear (4),Board 2
-Mobiz IT (4),Board 2
 Pro Integrate (3),Board 2
 ClifyX (3),Board 2
 Machinify (8),Board 2
 Sentry (7),Board 2
+Lightspeed Systems (7),Board 2
+SplitMetrics (5),Board 2
 Prolifics (5),Board 2
+Marco Technologies (6),Board 2
+Veear (4),Board 2
+Mobiz IT (4),Board 2
 Nexify Infosystems,Board 2
 EchoStor Technologies,Board 2
 YuJa (5),Board 2
