@@ -1,4 +1,6 @@
 card_name,board_name
+Ataway (5),Board 1
+accelerize360 (5),Board 1
 Proxet (5),Board 1
 Apex Systems,Board 1
 Black Box,Board 1
@@ -131,8 +133,6 @@ Talent Junction LLC,Board 1
 NMC Managed,Board 1
 Odyssey Information Services,Board 1
 Ambient Consulting,Board 1
-accelerize360 (5),Board 1
-Ataway (5),Board 1
 Software Guidance & Assistance (SGA),Board 1
 Vetta (5),Board 1
 ScaleNorth,Board 1
@@ -197,6 +197,32 @@ Fast Cloud Consulting,Board 2
 Sottelli,Board 2
 "Minsait (in ATS, recent, no jobs)",Board 2
 Softka Technologies,Board 2
+"Synergy Business Consulting, Inc.",Board 2
+"Meridial Marketplace, by Invisible",Board 2
+"LanceSoft, Inc.",Board 2
+Entellux,Board 2
+Vonage,Board 2
+Stefanini North America and APAC,Board 2
+Mriti InfoSystems Inc.,Board 2
+REDLEO SOFTWARE INC.,Board 2
+Auxis,Board 2
+Infinity Tech solutions LLC,Board 2
+Tsoft (4),Board 2
+Techifide Ltd (3),Board 2
+Trailmerge (2),Board 2
+Jobgether (3),Board 2
+Braintrust (4),Board 2
+Tholons (2),Board 2
+Wonolo (3),Board 2
+LatinHire (1),Board 2
+Bitso (6),Board 2
+Envision Horizons (4),Board 2
+Pedrolga (2),Board 2
+Next Ventures (5),Board 2
+Red Oak Technologies,Board 2
+Wimmer Solutions (5),Board 2
+AlphaSights (6),Board 2
+ProHiring,Board 2
 The Blue Aqua,Board 2
 WillDom,Board 2
 TekisHub Consulting Services,Board 2
@@ -221,13 +247,10 @@ Sun Chemical (5),Board 2
 Solusoft (2),Board 2
 Softline (2),Board 2
 Serrala (4),Board 2
-SAP do Brasil (5),Board 2
 Ritchie Bros. (5),Board 2
-Reqroute (4),Board 2
 Periferia IT Group (4),Board 2
 Oloop Technology Solutions (3),Board 2
 Novus International (1),Board 2
-Nike (6),Board 2
 Contec,Board 2
 BWI Group,Board 2
 "Boart Longyear SAC, Peru",Board 2
@@ -257,7 +280,6 @@ Best Buy (7),Board 2
 Baxter (5),Board 2
 Albany International (4),Board 2
 Turnberry,Board 2
-TripleTen (5),Board 2
 InformData,Board 2
 "York Solutions, LLC",Board 2
 "Riccione Resources, Inc.",Board 2
@@ -270,10 +292,7 @@ Hirenza,Board 2
 Turing,Board 2
 Tapin | Supercharge Your Menu,Board 2
 FreshBenies,Board 2
-UltraCon (2),Board 2
-UltraCon,Board 2
 ITQuest (3),Board 2
-Fineasy Tech (3),Board 2
 Lustrabits (3),Board 2
 InComm Payments (6),Board 2
 Belden Inc.,Board 2
@@ -315,7 +334,6 @@ Impact Networking,Board 2
 GDT - General Datatech,Board 2
 Visual Edge IT,Board 2
 Denovo (4),Board 2
-Dynanet (5),Board 2
 Evolvers Group (4),Board 2
 Flexera (8),Board 2
 HeroDevs (5),Board 2
@@ -641,38 +659,6 @@ McFadyen Digital,Board 2
 Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
-ProHiring,Board 2
-Ascendion (7),Board 2
-Lupus Consulting (3),Board 2
-TechNatives (3),Board 2
-AlphaSights (6),Board 2
-LunaJoy Health (4),Board 2
-Dynadok (5),Board 2
-Element Technologies (2),Board 2
-Wimmer Solutions (5),Board 2
-Red Oak Technologies,Board 2
-Next Ventures (5),Board 2
-Pedrolga (2),Board 2
-Envision Horizons (4),Board 2
-Bitso (6),Board 2
-LatinHire (1),Board 2
-Wonolo (3),Board 2
-Tholons (2),Board 2
-Braintrust (4),Board 2
-Jobgether (3),Board 2
-Trailmerge (2),Board 2
-Techifide Ltd (3),Board 2
-Tsoft (4),Board 2
-Infinity Tech solutions LLC,Board 2
-Auxis,Board 2
-REDLEO SOFTWARE INC.,Board 2
-Mriti InfoSystems Inc.,Board 2
-Stefanini North America and APAC,Board 2
-Vonage,Board 2
-Entellux,Board 2
-"LanceSoft, Inc.",Board 2
-"Meridial Marketplace, by Invisible",Board 2
-"Synergy Business Consulting, Inc.",Board 2
 BRMi (5),Board 2
 AssureSoft,Board 2
 DevSavant,Board 2
@@ -749,6 +735,29 @@ Info-Matrix (6),Board 2
 My IT LLC (4),Board 2
 InvoZone (6),Board 2
 GyanSys (6),Board 2
+W3Global (3),Board 2
+Zicasso (5),Board 2
+Masabi (4),Board 2
+GoodWe (5),Board 2
+TrackStreet (4),Board 2
+Spil (4),Board 2
+Vimerse InfoTech (5),Board 2
+MSK Infotek (5),Board 2
+Intellectt (5),Board 2
+Intelltech (5),Board 2
+Penta Consulting (5),Board 2
+Cognits,Board 2
+Wise Group (5),Board 2
+Apply Digital (5),Board 2
+STM Consulting (5),Board 2
+Metova (4),Board 2
+BRQ Digital Solutions (5),Board 2
+Coders Connect (5),Board 2
+CodeRoad (5),Board 2
+Devsu (5),Board 2
+Counterpart (5),Board 2
+Contara (6),Board 2
+CTC (6),Board 2
 "SADA, An Insight company",Board 2
 Pantheon (5),Board 2
 ERPA (7),Board 2
@@ -761,6 +770,20 @@ TekRecruiter,Board 2
 LeverX,Board 2
 Wise Skulls LLC,Board 2
 MetaSource,Board 2
+LunaJoy Health (4),Board 2
+Element Technologies (2),Board 2
+TechNatives (3),Board 2
+Ascendion (7),Board 2
+Dynadok (5),Board 2
+Lupus Consulting (3),Board 2
+Nike (6),Board 2
+Netorbit,Board 2
+Fineasy Tech (3),Board 2
+UltraCon (2),Board 2
+Dynanet (5),Board 2
+SAP do Brasil (5),Board 2
+TripleTen (5),Board 2
+Reqroute (4),Board 2
 Improving,Board 2
 S4 Analytics (5),Board 2
 Decypher (4),Board 2
