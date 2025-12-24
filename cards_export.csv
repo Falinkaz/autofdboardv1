@@ -134,6 +134,8 @@ NMC Managed,Board 1
 Odyssey Information Services,Board 1
 Ambient Consulting,Board 1
 MSK Infotek (5),Board 1
+Cognits (3),Board 1
+Merit4All,Board 1
 Software Guidance & Assistance (SGA),Board 1
 Vetta (5),Board 1
 ScaleNorth,Board 1
@@ -162,6 +164,7 @@ AVM Consulting,Board 1
 LTImindtree,Board 1
 Evolutyz Corp,Board 1
 United Software Group,Board 1
+Smart Folks,Board 1
 MHP,Board 1
 MAS Global Consulting,Board 1
 JBSDEV,Board 1
@@ -198,25 +201,19 @@ Fast Cloud Consulting,Board 2
 Sottelli,Board 2
 "Minsait (in ATS, recent, no jobs)",Board 2
 Softka Technologies,Board 2
-RESULTICKS,Board 2
 Level Access,Board 2
 8am (4),Board 2
 CTC (6),Board 2
-Contara (6),Board 2
 Counterpart (5),Board 2
 Devsu (5),Board 2
 CodeRoad (5),Board 2
-Coders Connect (5),Board 2
 BRQ Digital Solutions (5),Board 2
 Metova (4),Board 2
-STM Consulting (5),Board 2
 Apply Digital (8),Board 2
 Wise Group (5),Board 2
-Cognits,Board 2
 Penta Consulting (5),Board 2
 Intelltech (5),Board 2
 Intellectt (5),Board 2
-Vimerse InfoTech (5),Board 2
 Spil (4),Board 2
 TrackStreet (4),Board 2
 GoodWe (5),Board 2
@@ -237,13 +234,10 @@ Braintrust (4),Board 2
 Tholons (2),Board 2
 Wonolo (3),Board 2
 LatinHire (1),Board 2
-Bitso (6),Board 2
 Envision Horizons (4),Board 2
 Pedrolga (2),Board 2
 Next Ventures (5),Board 2
 Red Oak Technologies,Board 2
-Wimmer Solutions (5),Board 2
-AlphaSights (6),Board 2
 ProHiring,Board 2
 The Blue Aqua,Board 2
 WillDom,Board 2
@@ -342,7 +336,6 @@ CriticalRiver Inc.,Board 2
 Yorktel,Board 2
 Spinnaker Support,Board 2
 Redhorse Corporation,Board 2
-Authority Partners (5),Board 2
 AXON Networks (5),Board 2
 Bart & Associates (4),Board 2
 Blue Mantis (5),Board 2
@@ -676,21 +669,32 @@ McFadyen Digital,Board 2
 Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
-Kake (4),Board 2
 SMX Services & Consulting (4),Board 2
 Alignerr (2),Board 2
 Pinnacle Alliances,Board 2
 EPMA,Board 2
 Highstep Technologies,Board 2
 Saksoft,Board 2
-SimulStat,Board 2
+SimulStat (3),Board 2
+Beinex (3),Board 2
+Ampstek,Board 2
 Vonage,Board 2
 Tapin | Supercharge Your Menu,Board 2
-Oloop Technology Solutions (3),Board 2
+AlphaSights (6),Board 2
+Kake (4),Board 2
+Contara (6),Board 2
+Wimmer Solutions (5),Board 2
+Authority Partners (5),Board 2
+Vimerse InfoTech (5),Board 2
+Coders Connect (5),Board 2
+Bitso (6),Board 2
+TekRecruiter,Board 2
+RESULTICKS,Board 2
 BRMi (5),Board 2
 AssureSoft,Board 2
 DevSavant,Board 2
 Spines,Board 2
+Tidal Impact LLC,Board 2
 AODocs,Board 2
 mailerlite,Board 2
 Code Signal,Board 2
@@ -758,10 +762,30 @@ Devel Group,Board 2
 Very Good Ventures,Board 2
 Blue Orange,Board 2
 ACL,Board 2
-NBCUniversal (6),Board 2
-Kairos Technologies (4),Board 2
 Zortech Solutions,Board 2
 Data Capital,Board 2
+Emerson (5),Board 2
+Hikru (3),Board 2
+Brivia (5),Board 2
+Mriti InfoSystems (5),Board 2
+SoftPlan (3),Board 2
+Brinks (8),Board 2
+Banco Falabella Chile (3),Board 2
+TransPerfect (5),Board 2
+Lionbridge Games (3),Board 2
+Biwares (4),Board 2
+Consultec-TI (3),Board 2
+Aquiva Labs (4),Board 2
+It4us (3),Board 2
+EVT IT (4),Board 2
+LISIT (3),Board 2
+Infocodec Solutions,Board 2
+S4 Analytics (5),Board 2
+Walter Tools (3),Board 2
+SoftwareOne (6),Board 2
+Kairos Technologies (4),Board 2
+Indra Colombia (6),Board 2
+NBCUniversal (6),Board 2
 MacPaw (8),Board 2
 NexZenTek (4),Board 2
 Osi Vision (5),Board 2
@@ -770,24 +794,16 @@ Optimizely (9),Board 2
 TalentBridge (5),Board 2
 Info-Matrix (6),Board 2
 My IT LLC (4),Board 2
-Walter Tools (3),Board 2
 InvoZone (6),Board 2
 GyanSys (6),Board 2
 "Synergy Business Consulting, Inc.",Board 2
 Entellux,Board 2
 Mriti InfoSystems Inc.,Board 2
 Johnson Matthey,Board 2
-Pantheon (5),Board 2
-ERPA (7),Board 2
-PMY Group (5),Board 2
-SDH Systems (3),Board 2
-Iron Mountain (8),Board 2
-IFIT Solutions (5),Board 2
 Ingeniosi (6),Board 2
-TekRecruiter,Board 2
+Oloop Technology Solutions (3),Board 2
 LunaJoy Health (4),Board 2
 Element Technologies (2),Board 2
-TechNatives (3),Board 2
 Ascendion (7),Board 2
 Dynadok (5),Board 2
 Lupus Consulting (3),Board 2
@@ -799,49 +815,38 @@ Dynanet (5),Board 2
 SAP do Brasil (5),Board 2
 TripleTen (5),Board 2
 Reqroute (4),Board 2
+Pantheon (5),Board 2
+PMY Group (5),Board 2
+SDH Systems (3),Board 2
+Iron Mountain (8),Board 2
+IFIT Solutions (5),Board 2
+ERPA (7),Board 2
+TechNatives (3),Board 2
 "SADA, An Insight company",Board 2
-S4 Analytics (5),Board 2
-Infocodec Solutions,Board 2
-Aquiva Labs (4),Board 2
-SoftwareOne (6),Board 2
-Indra Colombia (6),Board 2
-Brinks (8),Board 2
-Banco Falabella Chile (3),Board 2
-TransPerfect (5),Board 2
-Lionbridge Games (3),Board 2
-Biwares (4),Board 2
-Consultec-TI (3),Board 2
-It4us (3),Board 2
-EVT IT (4),Board 2
-LISIT (3),Board 2
-SoftPlan (3),Board 2
-Mriti InfoSystems (5),Board 2
-Brivia (5),Board 2
-Hikru (3),Board 2
+STM Consulting (5),Board 2
 AMDEX (5),Board 2
 Aris Global (4),Board 2
 AttainX (5),Board 2
-Wise Skulls LLC,Board 2
-LeverX,Board 2
 Decypher (4),Board 2
 Dev.Pro (5),Board 2
 Duda (5),Board 2
 EVOTEK (5),Board 2
-Evrone (5),Board 2
 Fastbreak AI (6),Board 2
 Montek System (5),Board 2
 iFlow (5),Board 2
 Glorium Technologies (5),Board 2
 InApp (4),Board 2
-MetaSource,Board 2
-Lovelytics (5),Board 2
-Jabil Circuit (6),Board 2
-Networking For Future (NFF) (5),Board 2
 Techunting (6),Board 2
 HireRight (7),Board 2
 ArcLight Consulting (5),Board 2
 Quadrant Technologies (5),Board 2
-Emerson (5),Board 2
+Evrone (5),Board 2
+Lovelytics (5),Board 2
+Jabil Circuit (6),Board 2
+Networking For Future (NFF) (5),Board 2
+Wise Skulls LLC,Board 2
+LeverX,Board 2
+MetaSource,Board 2
 Pro Integrate (3),Board 2
 ClifyX (3),Board 2
 Machinify (8),Board 2
@@ -945,6 +950,9 @@ Proxet (5),Board 2
 accelerize360 (5),Board 2
 Ataway (5),Board 2
 MSK Infotek (5),Board 2
+Merit4All,Board 2
+Cognits (3),Board 2
+Smart Folks,Board 2
 Enroute (Monterrey company),Board 2
 IdeaHelix,Board 2
 iLink Digital,Board 2
