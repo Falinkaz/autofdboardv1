@@ -135,7 +135,6 @@ Talent Junction LLC,Board 1
 NMC Managed,Board 1
 Odyssey Information Services,Board 1
 Ambient Consulting,Board 1
-Merit4All,Board 1
 Smart Folks,Board 1
 Software Guidance & Assistance (SGA),Board 1
 Vetta (5),Board 1
@@ -185,6 +184,7 @@ Pyramid Consulting,Board 1
 Level Access,Board 1
 Pyramid Consulting,Board 1
 Nava Software,Board 1
+Merit4All,Board 1
 10Pearls LATAM,Board 1
 Chaintech,Board 2
 AMTEX,Board 2
@@ -233,7 +233,6 @@ W3Global (3),Board 2
 REDLEO SOFTWARE INC.,Board 2
 Auxis,Board 2
 Infinity Tech solutions LLC,Board 2
-Tsoft (4),Board 2
 Techifide Ltd (3),Board 2
 Trailmerge (2),Board 2
 Jobgether (3),Board 2
@@ -268,7 +267,6 @@ Xerox (7),Board 2
 Sun Chemical (5),Board 2
 Solusoft (2),Board 2
 Softline (2),Board 2
-Serrala (4),Board 2
 Ritchie Bros. (5),Board 2
 Novus International (1),Board 2
 Contec,Board 2
@@ -354,7 +352,6 @@ Denovo (4),Board 2
 Evolvers Group (4),Board 2
 Flexera (8),Board 2
 HeroDevs (5),Board 2
-Icreon,Board 2
 AMERICAN SYSTEMS,Board 2
 ITC Federal,Board 2
 ScienceLogic,Board 2
@@ -676,8 +673,12 @@ Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
 Senture,Board 2
+Tech Magnetics (4),Board 2
 "Boart Longyear SAC, Peru",Board 2
 Stefanini North America and APAC,Board 2
+Serrala (4),Board 2
+Icreon (4),Board 2
+Tsoft (4),Board 2
 Contara (6),Board 2
 Wimmer Solutions (5),Board 2
 Authority Partners (5),Board 2
@@ -687,7 +688,6 @@ STM Consulting (5),Board 2
 Kake (4),Board 2
 Coders Connect (5),Board 2
 Bitso (6),Board 2
-Ingeniosi (6),Board 2
 BRMi (5),Board 2
 AssureSoft,Board 2
 DevSavant,Board 2
@@ -830,21 +830,6 @@ New York Technology Partners,Board 2
 Unosquare,Board 2
 Zortech Solutions,Board 2
 Data Capital,Board 2
-Lovelytics (5),Board 2
-Networking For Future (NFF) (5),Board 2
-Evrone (5),Board 2
-ArcLight Consulting (5),Board 2
-Quadrant Technologies (5),Board 2
-HireRight (7),Board 2
-InApp (4),Board 2
-Techunting (6),Board 2
-iFlow (5),Board 2
-Glorium Technologies (5),Board 2
-Montek System (5),Board 2
-Fastbreak AI (6),Board 2
-EVOTEK (5),Board 2
-YuJa (5),Board 2
-Duda (5),Board 2
 Info-Matrix (6),Board 2
 Periferia IT Group (4),Board 2
 My IT LLC (4),Board 2
@@ -878,12 +863,13 @@ Mriti InfoSystems Inc.,Board 2
 Entellux,Board 2
 Vonage,Board 2
 Tapin | Supercharge Your Menu,Board 2
-Jabil Circuit (6),Board 2
 AMDEX (5),Board 2
 Aris Global (4),Board 2
 AttainX (5),Board 2
 Decypher (4),Board 2
 Dev.Pro (5),Board 2
+Jabil Circuit (6),Board 2
+Ingeniosi (6),Board 2
 "SADA, An Insight company",Board 2
 Pro Integrate (3),Board 2
 ClifyX (3),Board 2
@@ -919,9 +905,24 @@ It4us (3),Board 2
 EVT IT (4),Board 2
 LISIT (3),Board 2
 TalentBridge (5),Board 2
+Lovelytics (5),Board 2
+Evrone (5),Board 2
+Montek System (5),Board 2
+YuJa (5),Board 2
+HireRight (7),Board 2
+Techunting (6),Board 2
+iFlow (5),Board 2
+Glorium Technologies (5),Board 2
+Fastbreak AI (6),Board 2
+EVOTEK (5),Board 2
+Duda (5),Board 2
 MacPaw (8),Board 2
 NexZenTek (4),Board 2
+InApp (4),Board 2
 Optimizely (9),Board 2
+ArcLight Consulting (5),Board 2
+Networking For Future (NFF) (5),Board 2
+Quadrant Technologies (5),Board 2
 London Stock Exchange Group (LSEG) (8),Board 2
 Osi Vision (5),Board 2
 MetaSource,Board 2
