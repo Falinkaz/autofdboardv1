@@ -1,15 +1,9 @@
 card_name,board_name
-MSK Infotek (5),Board 1
 Cognits (3),Board 1
-Ataway (5),Board 1
-accelerize360 (5),Board 1
-Proxet (5),Board 1
-Apex Systems,Board 1
-Black Box,Board 1
-Adbakx (4),Board 1
+Aevitas (1),Board 1
+MSK Infotek (5),Board 1
+Tekton Labs,Board 1
 HR Link Group (1),Board 1
-New York Technology Partners,Board 1
-Eidiko Systems Integrators,Board 1
 Jubilant Consulting,Board 1
 Tanisha Systems,Board 1
 Creative Synergies Group,Board 1
@@ -136,13 +130,12 @@ NMC Managed,Board 1
 Odyssey Information Services,Board 1
 Ambient Consulting,Board 1
 Ascendion (7),Board 1
+Authority Partners (5),Board 1
 Aptask,Board 1
 Smart Folks,Board 1
-Software Guidance & Assistance (SGA),Board 1
+accelerize360 (5),Board 1
+Ataway (5),Board 1
 Vetta (5),Board 1
-ScaleNorth,Board 1
-Aevitas (1),Board 1
-Tekton Labs,Board 1
 Linx (6),Board 1
 Bhavna (5),Board 1
 Tellabs  (4),Board 1
@@ -172,6 +165,10 @@ CAS Cloud Accountant Staffing,Board 1
 Gentis Solutions,Board 1
 Data Capital,Board 1
 APPropoz Solutions,Board 1
+Black Box,Board 1
+Adbakx (4),Board 1
+New York Technology Partners,Board 1
+Apex Systems,Board 1
 TECHLOGIC SOLUTIONS LLC,Board 1
 Coralogix,Board 1
 Tekshapers,Board 1
@@ -185,6 +182,10 @@ Pyramid Consulting,Board 1
 Level Access,Board 1
 Pyramid Consulting,Board 1
 Nava Software,Board 1
+Proxet (5),Board 1
+Eidiko Systems Integrators,Board 1
+Software Guidance & Assistance (SGA),Board 1
+ScaleNorth,Board 1
 Merit4All,Board 1
 10Pearls LATAM,Board 1
 Chaintech,Board 2
@@ -202,6 +203,14 @@ Fast Cloud Consulting,Board 2
 Sottelli,Board 2
 "Minsait (in ATS, recent, no jobs)",Board 2
 Softka Technologies,Board 2
+Luxer One (6),Board 2
+Highbrow Technology (3),Board 2
+Veriswap (3),Board 2
+ICF International,Board 2
+Nsight (5),Board 2
+Acnovate Business Solutions (5),Board 2
+EasyBee AI (5),Board 2
+Senture,Board 2
 SimulStat (3),Board 2
 Saksoft,Board 2
 Highstep Technologies,Board 2
@@ -214,7 +223,6 @@ CTC (6),Board 2
 Counterpart (5),Board 2
 Devsu (5),Board 2
 CodeRoad (5),Board 2
-BRQ Digital Solutions (5),Board 2
 Metova (4),Board 2
 Apply Digital (8),Board 2
 Wise Group (5),Board 2
@@ -237,7 +245,6 @@ Trailmerge (2),Board 2
 Jobgether (3),Board 2
 Braintrust (4),Board 2
 Tholons (2),Board 2
-Wonolo (3),Board 2
 LatinHire (1),Board 2
 Envision Horizons (4),Board 2
 Pedrolga (2),Board 2
@@ -400,7 +407,6 @@ Ejam (2),Board 2
 KGTiger Corporation,Board 2
 Mythics (7),Board 2
 Nationwide IT Services (4),Board 2
-Next League (5),Board 2
 Aroha Technologies,Board 2
 Zirous,Board 2
 Shift5,Board 2
@@ -623,7 +629,6 @@ Arkham Technologies,Board 2
 Talent Systems LLC,Board 2
 Clevertap,Board 2
 Tek Ninjas,Board 2
-Level Access,Board 2
 Main Sail,Board 2
 Smart IMS Inc.,Board 2
 Zallpy Digital,Board 2
@@ -670,40 +675,17 @@ McFadyen Digital,Board 2
 Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
-Senture,Board 2
-Tech Magnetics (4),Board 2
-PeopleNTech,Board 2
-7 Kings Code,Board 2
-EasyBee AI (5),Board 2
-Tential Solutions (6),Board 2
-RESULTICKS,Board 2
-ERPA (7),Board 2
-IFIT Solutions (5),Board 2
-Iron Mountain (8),Board 2
-SDH Systems (3),Board 2
-PMY Group (5),Board 2
-Pantheon (5),Board 2
+Jabil Circuit (6),Board 2
+Ingeniosi (6),Board 2
 Lupus Consulting (3),Board 2
-Dynadok (5),Board 2
 Nike (6),Board 2
 Netorbit,Board 2
-Fineasy Tech (3),Board 2
-UltraCon (2),Board 2
 Dynanet (5),Board 2
 SAP do Brasil (5),Board 2
 TripleTen (5),Board 2
 Reqroute (4),Board 2
 LunaJoy Health (4),Board 2
 Element Technologies (2),Board 2
-Periferia IT Group (4),Board 2
-TekRecruiter,Board 2
-Bitso (6),Board 2
-Coders Connect (5),Board 2
-Kake (4),Board 2
-STM Consulting (5),Board 2
-AlphaSights (6),Board 2
-Vimerse InfoTech (5),Board 2
-Wimmer Solutions (5),Board 2
 LeverX,Board 2
 MetaSource,Board 2
 "EverService Holdings, LLC",Board 2
@@ -847,6 +829,7 @@ MSK Infotek (5),Board 2
 Ataway (5),Board 2
 accelerize360 (5),Board 2
 Proxet (5),Board 2
+PMY Group (5),Board 2
 Data Network,Board 2
 Tellabs  (4),Board 2
 Black Diamond,Board 2
@@ -855,6 +838,7 @@ NeelBlue Technology (3),Board 2
 Aevitas (1),Board 2
 HR Link Group (1),Board 2
 The Brixton Group (5),Board 2
+SDH Systems (3),Board 2
 Linx (6),Board 2
 Adbakx (4),Board 2
 Vetta (5),Board 2
@@ -863,8 +847,11 @@ Tanisha Systems,Board 2
 The Dignify Solutions,Board 2
 New York Technology Partners,Board 2
 Unosquare,Board 2
+RESULTICKS,Board 2
 Zortech Solutions,Board 2
 Data Capital,Board 2
+Iron Mountain (8),Board 2
+IFIT Solutions (5),Board 2
 GyanSys (6),Board 2
 Serrala (4),Board 2
 Icreon (4),Board 2
@@ -872,20 +859,38 @@ Ampstek,Board 2
 Stefanini North America and APAC,Board 2
 3Cloud (4),Board 2
 TechNatives (3),Board 2
+Wonolo (3),Board 2
 Tsoft (4),Board 2
 SoftwareOne (6),Board 2
-Authority Partners (5),Board 2
-Contara (6),Board 2
-Jabil Circuit (6),Board 2
-Ingeniosi (6),Board 2
+BRQ Digital Solutions (5),Board 2
+PeopleNTech (5),Board 2
+Next League (5),Board 2
+Tech Magnetics (4),Board 2
+Crucial Recruiting,Board 2
+Tential Solutions (6),Board 2
+7 Kings Code (4),Board 2
 "SADA, An Insight company",Board 2
 Johnson Matthey,Board 2
-Mriti InfoSystems Inc.,Board 2
 "Synergy Business Consulting, Inc.",Board 2
 Entellux,Board 2
 Vonage,Board 2
 Tapin | Supercharge Your Menu,Board 2
 "Boart Longyear SAC, Peru",Board 2
+Dynadok (5),Board 2
+Fineasy Tech (3),Board 2
+UltraCon (2),Board 2
+Pantheon (5),Board 2
+ERPA (7),Board 2
+Bitso (6),Board 2
+Coders Connect (5),Board 2
+Vimerse InfoTech (5),Board 2
+Wimmer Solutions (5),Board 2
+Contara (6),Board 2
+TekRecruiter,Board 2
+STM Consulting (5),Board 2
+AlphaSights (6),Board 2
+Periferia IT Group (4),Board 2
+Kake (4),Board 2
 YuJa (5),Board 2
 HireRight (7),Board 2
 Techunting (6),Board 2
@@ -959,6 +964,7 @@ Sigmoid,Board 2
 Truelogic Software,Board 2
 Ambient Consulting,Board 2
 Ascendion (7),Board 2
+Authority Partners (5),Board 2
 Nava Software,Board 2
 Proxify,Board 2
 Sticker Mule,Board 2
@@ -1079,3 +1085,4 @@ Intetics (5),Board 2
 Codup (4),Board 2
 Inspiredge (5),Board 2
 ConfigUSA (3),Board 2
+Level Access,Board 2
