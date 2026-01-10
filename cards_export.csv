@@ -1,5 +1,8 @@
 card_name,board_name
-Cognits (3),Board 1
+Aptask,Board 1
+Crucial Recruiting (3),Board 1
+Authority Partners (5),Board 1
+Ascendion (7),Board 1
 Aevitas (1),Board 1
 MSK Infotek (5),Board 1
 Tekton Labs,Board 1
@@ -118,6 +121,7 @@ Provectus,Board 1
 Infocepts,Board 1
 Delta System & Software,Board 1
 Netsync Network Solutions,Board 1
+Cognits (3),Board 1
 Welded Tube of Canada,Board 1
 datanetiix,Board 1
 Culinovo,Board 1
@@ -129,9 +133,6 @@ Talent Junction LLC,Board 1
 NMC Managed,Board 1
 Odyssey Information Services,Board 1
 Ambient Consulting,Board 1
-Ascendion (7),Board 1
-Authority Partners (5),Board 1
-Aptask,Board 1
 Smart Folks,Board 1
 accelerize360 (5),Board 1
 Ataway (5),Board 1
@@ -206,7 +207,7 @@ Softka Technologies,Board 2
 Luxer One (6),Board 2
 Highbrow Technology (3),Board 2
 Veriswap (3),Board 2
-ICF International,Board 2
+ICF International (5),Board 2
 Nsight (5),Board 2
 Acnovate Business Solutions (5),Board 2
 EasyBee AI (5),Board 2
@@ -675,7 +676,12 @@ McFadyen Digital,Board 2
 Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
-Jabil Circuit (6),Board 2
+BigRio (3),Board 2
+Exadel (8),Board 2
+Stateside (4),Board 2
+BruntWork (5),Board 2
+PermitFlow (5),Board 2
+Verx Tecnologia e Inovação,Board 2
 Ingeniosi (6),Board 2
 Lupus Consulting (3),Board 2
 Nike (6),Board 2
@@ -866,7 +872,6 @@ BRQ Digital Solutions (5),Board 2
 PeopleNTech (5),Board 2
 Next League (5),Board 2
 Tech Magnetics (4),Board 2
-Crucial Recruiting,Board 2
 Tential Solutions (6),Board 2
 7 Kings Code (4),Board 2
 "SADA, An Insight company",Board 2
@@ -906,20 +911,6 @@ Decypher (4),Board 2
 Aris Global (4),Board 2
 AMDEX (5),Board 2
 InApp (4),Board 2
-Optimizely (9),Board 2
-ArcLight Consulting (5),Board 2
-Networking For Future (NFF) (5),Board 2
-Quadrant Technologies (5),Board 2
-London Stock Exchange Group (LSEG) (8),Board 2
-AttainX (5),Board 2
-Osi Vision (5),Board 2
-Consultec-TI (3),Board 2
-Montek System (5),Board 2
-Evrone (5),Board 2
-Lovelytics (5),Board 2
-TalentBridge (5),Board 2
-LISIT (3),Board 2
-EVT IT (4),Board 2
 Pro Integrate (3),Board 2
 ClifyX (3),Board 2
 Machinify (8),Board 2
@@ -936,6 +927,8 @@ Mobiz IT (4),Board 2
 Nexify Infosystems,Board 2
 Hikru (3),Board 2
 Brivia (5),Board 2
+LISIT (3),Board 2
+EVT IT (4),Board 2
 Mriti InfoSystems (5),Board 2
 Biwares (4),Board 2
 Walter Tools (3),Board 2
@@ -947,8 +940,21 @@ Banco Falabella Chile (3),Board 2
 Aquiva Labs (4),Board 2
 Infocodec Solutions,Board 2
 Lionbridge Games (3),Board 2
+TalentBridge (5),Board 2
+Montek System (5),Board 2
+Osi Vision (5),Board 2
 It4us (3),Board 2
+Lovelytics (5),Board 2
 Kairos Technologies (4),Board 2
+AttainX (5),Board 2
+Evrone (5),Board 2
+Jabil Circuit (6),Board 2
+Consultec-TI (3),Board 2
+Optimizely (9),Board 2
+ArcLight Consulting (5),Board 2
+Networking For Future (NFF) (5),Board 2
+Quadrant Technologies (5),Board 2
+London Stock Exchange Group (LSEG) (8),Board 2
 World Wide Technology,Board 2
 SysMap,Board 2
 Eigen X,Board 2
@@ -965,6 +971,7 @@ Truelogic Software,Board 2
 Ambient Consulting,Board 2
 Ascendion (7),Board 2
 Authority Partners (5),Board 2
+Crucial Recruiting (3),Board 2
 Nava Software,Board 2
 Proxify,Board 2
 Sticker Mule,Board 2
