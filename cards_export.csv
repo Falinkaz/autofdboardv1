@@ -1,9 +1,8 @@
 card_name,board_name
-OneClick Code,Board 1
-Aptask,Board 1
 Smart Folks,Board 1
 Authority Partners (5),Board 1
 Ascendion (7),Board 1
+Aptask,Board 1
 Aevitas (1),Board 1
 MSK Infotek (5),Board 1
 Tekton Labs,Board 1
@@ -58,7 +57,6 @@ Saguna Consulting Services,Board 1
 GNC-Consulting,Board 1
 Involgix,Board 1
 NAVA TECH LLC,Board 1
-Artech,Board 1
 Satwic Inc,Board 1
 Sight Spectrum,Board 1
 Altezzasys INC,Board 1
@@ -136,6 +134,7 @@ Talent Junction LLC,Board 1
 NMC Managed,Board 1
 Odyssey Information Services,Board 1
 Ambient Consulting,Board 1
+OneClick Code,Board 1
 accelerize360 (5),Board 1
 Ataway (5),Board 1
 Vetta (5),Board 1
@@ -146,7 +145,7 @@ Brintell (5),Board 1
 Data Network,Board 1
 NearshoreInMexico,Board 1
 Symphony,Board 1
-Parmesoft Inc,Board 1
+Parmesoft,Board 1
 Aspire Systems,Board 1
 Sharp Decisions,Board 1
 United Software Group (Vivid Soft Global),Board 1
@@ -191,6 +190,7 @@ Software Guidance & Assistance (SGA),Board 1
 ScaleNorth,Board 1
 Merit4All,Board 1
 10Pearls LATAM,Board 1
+Artech,Board 1
 Chaintech,Board 2
 AMTEX,Board 2
 Tech Holding,Board 2
@@ -206,6 +206,28 @@ Fast Cloud Consulting,Board 2
 Sottelli,Board 2
 "Minsait (in ATS, recent, no jobs)",Board 2
 Softka Technologies,Board 2
+Portnox,Board 2
+Markup AI,Board 2
+Inbox Health,Board 2
+RevStar,Board 2
+SANS Consulting,Board 2
+Salesforce,Board 2
+Suneratech,Board 2
+Tastewise,Board 2
+Javara,Board 2
+AirGarage,Board 2
+QbDVision,Board 2
+Hypori,Board 2
+Roadzen,Board 2
+OnPay,Board 2
+Nirmata (4),Board 2
+Dexterity (5),Board 2
+Proscia (5),Board 2
+CloudZero (4),Board 2
+EdgeCore (5),Board 2
+XILO (4),Board 2
+XOi (5),Board 2
+DC BLOX (5),Board 2
 1Kosmos (5),Board 2
 Chef Robotics (5),Board 2
 EdSights (5),Board 2
@@ -226,7 +248,6 @@ Eversynced (4),Board 2
 Verx Tecnologia e Inovação,Board 2
 BigRio (3),Board 2
 Veriswap (3),Board 2
-Nsight (5),Board 2
 Acnovate Business Solutions (5),Board 2
 EasyBee AI (5),Board 2
 Senture,Board 2
@@ -691,40 +712,24 @@ McFadyen Digital,Board 2
 Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
-DC BLOX (5),Board 2
-XOi (5),Board 2
-XILO (4),Board 2
-EdgeCore (5),Board 2
-CloudZero (4),Board 2
-Proscia (5),Board 2
-Dexterity (5),Board 2
-Nirmata (4),Board 2
-OnPay,Board 2
-Roadzen,Board 2
-Hypori,Board 2
-QbDVision,Board 2
-AirGarage,Board 2
-Javara,Board 2
-Tastewise,Board 2
-Suneratech,Board 2
-Salesforce,Board 2
-SANS Consulting,Board 2
-RevStar,Board 2
-Inbox Health,Board 2
-Markup AI,Board 2
-Portnox,Board 2
+ZestyAI,Board 2
+FieldPulse,Board 2
+PetScreening,Board 2
+Iterate.ai,Board 2
+PassiveLogic,Board 2
+KnowledgeLake,Board 2
+Nsight (5),Board 2
 Vega Intellisoft (3),Board 2
 RealTek Consulting (4),Board 2
 HRnetGroup (4),Board 2
 Spadtek Solutions (5),Board 2
 Natural Cycles (5),Board 2
-ICF International (5),Board 2
-Exadel (8),Board 2
-Infogain - LATAM (4),Board 2
-Stateside (4),Board 2
-BruntWork (5),Board 2
-Cloudwick (3),Board 2
+Hyqoo (4),Board 2
+Krenovator (4),Board 2
+PeopleNTech (5),Board 2
 PermitFlow (5),Board 2
+Cloudwick (3),Board 2
+BruntWork (5),Board 2
 LeverX,Board 2
 MetaSource,Board 2
 "EverService Holdings, LLC",Board 2
@@ -887,66 +892,43 @@ Tanisha Systems,Board 2
 The Dignify Solutions,Board 2
 New York Technology Partners,Board 2
 Unosquare,Board 2
-Wonolo (3),Board 2
-TechNatives (3),Board 2
-RESULTICKS,Board 2
 Zortech Solutions,Board 2
-ERPA (7),Board 2
+TechNatives (3),Board 2
+Wonolo (3),Board 2
+RESULTICKS,Board 2
+Serrala (4),Board 2
+Icreon (4),Board 2
+Kake (4),Board 2
+AlphaSights (6),Board 2
+STM Consulting (5),Board 2
+TekRecruiter,Board 2
+Contara (6),Board 2
+Wimmer Solutions (5),Board 2
+Vimerse InfoTech (5),Board 2
+Coders Connect (5),Board 2
+Bitso (6),Board 2
 Pantheon (5),Board 2
-UltraCon (2),Board 2
-PMY Group (5),Board 2
-Fineasy Tech (3),Board 2
-Iron Mountain (8),Board 2
-Dynadok (5),Board 2
 IFIT Solutions (5),Board 2
-SDH Systems (3),Board 2
-Ingeniosi (6),Board 2
-Lupus Consulting (3),Board 2
-Element Technologies (2),Board 2
-LunaJoy Health (4),Board 2
-Reqroute (4),Board 2
-TripleTen (5),Board 2
-SAP do Brasil (5),Board 2
-Dynanet (5),Board 2
-Netorbit,Board 2
 Data Capital,Board 2
 GyanSys (6),Board 2
-Tsoft (4),Board 2
-Luxer One (6),Board 2
-Highbrow Technology (3),Board 2
-EXEMPLAR ITS,Board 2
 SoftwareOne (6),Board 2
 BRQ Digital Solutions (5),Board 2
-PeopleNTech (5),Board 2
 Next League (5),Board 2
 Tech Magnetics (4),Board 2
 Tential Solutions (6),Board 2
 7 Kings Code (4),Board 2
-Krenovator (4),Board 2
-Hyqoo (4),Board 2
-Bitso (6),Board 2
-Coders Connect (5),Board 2
-Vimerse InfoTech (5),Board 2
-Wimmer Solutions (5),Board 2
-Contara (6),Board 2
-TekRecruiter,Board 2
-STM Consulting (5),Board 2
-AlphaSights (6),Board 2
+Stateside (4),Board 2
+Infogain - LATAM (4),Board 2
+Exadel (8),Board 2
+ICF International (5),Board 2
+Tsoft (4),Board 2
 Periferia IT Group (4),Board 2
-Kake (4),Board 2
-Icreon (4),Board 2
-Serrala (4),Board 2
+EXEMPLAR ITS,Board 2
+Highbrow Technology (3),Board 2
+Luxer One (6),Board 2
 Ampstek,Board 2
 Stefanini North America and APAC,Board 2
 3Cloud (4),Board 2
-Nike (6),Board 2
-"SADA, An Insight company",Board 2
-Johnson Matthey,Board 2
-"Synergy Business Consulting, Inc.",Board 2
-Entellux,Board 2
-Vonage,Board 2
-Tapin | Supercharge Your Menu,Board 2
-"Boart Longyear SAC, Peru",Board 2
 Pro Integrate (3),Board 2
 ClifyX (3),Board 2
 Machinify (8),Board 2
@@ -985,15 +967,6 @@ Kairos Technologies (4),Board 2
 AttainX (5),Board 2
 Evrone (5),Board 2
 Jabil Circuit (6),Board 2
-Consultec-TI (3),Board 2
-Optimizely (9),Board 2
-ArcLight Consulting (5),Board 2
-Networking For Future (NFF) (5),Board 2
-Quadrant Technologies (5),Board 2
-London Stock Exchange Group (LSEG) (8),Board 2
-World Wide Technology,Board 2
-SysMap,Board 2
-Eigen X,Board 2
 YuJa (5),Board 2
 HireRight (7),Board 2
 Techunting (6),Board 2
@@ -1002,13 +975,46 @@ Glorium Technologies (5),Board 2
 Fastbreak AI (6),Board 2
 EVOTEK (5),Board 2
 Duda (5),Board 2
+Aris Global (4),Board 2
+AMDEX (5),Board 2
+InApp (4),Board 2
 MacPaw (8),Board 2
 NexZenTek (4),Board 2
 Dev.Pro (5),Board 2
 Decypher (4),Board 2
-Aris Global (4),Board 2
-AMDEX (5),Board 2
-InApp (4),Board 2
+"SADA, An Insight company",Board 2
+PMY Group (5),Board 2
+SDH Systems (3),Board 2
+Iron Mountain (8),Board 2
+Ingeniosi (6),Board 2
+Johnson Matthey,Board 2
+"Synergy Business Consulting, Inc.",Board 2
+Entellux,Board 2
+Vonage,Board 2
+Tapin | Supercharge Your Menu,Board 2
+"Boart Longyear SAC, Peru",Board 2
+Nike (6),Board 2
+Netorbit,Board 2
+TripleTen (5),Board 2
+Dynanet (5),Board 2
+SAP do Brasil (5),Board 2
+Reqroute (4),Board 2
+LunaJoy Health (4),Board 2
+Element Technologies (2),Board 2
+Lupus Consulting (3),Board 2
+Dynadok (5),Board 2
+Fineasy Tech (3),Board 2
+UltraCon (2),Board 2
+Consultec-TI (3),Board 2
+ERPA (7),Board 2
+Optimizely (9),Board 2
+ArcLight Consulting (5),Board 2
+Networking For Future (NFF) (5),Board 2
+Quadrant Technologies (5),Board 2
+London Stock Exchange Group (LSEG) (8),Board 2
+World Wide Technology,Board 2
+SysMap,Board 2
+Eigen X,Board 2
 Software Guidance & Assistance (SGA),Board 2
 Culinovo,Board 2
 Horizontal Talent,Board 2
