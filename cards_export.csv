@@ -53,11 +53,10 @@ Sigmoid,Board 1
 NMC Managed,Board 1
 Feuji,Board 1
 Accord Innovations,Board 1
-Artech,Board 1
 Javen Technologies (5),Board 1
 OneClick Code,Board 1
 Presidio,Board 1
-TEK Inspirations LLC,Board 1
+TEK Inspirations LLC - VETADO,Board 1
 Bhavna (5),Board 1
 Data Network,Board 1
 Tellabs  (4),Board 1
@@ -72,6 +71,7 @@ Aspire Systems,Board 1
 Aptask,Board 1
 Symphony,Board 1
 NearshoreInMexico,Board 1
+Artech,Board 1
 Optomi,Board 1
 Truelogic Software,Board 1
 Catalyte,Board 1
@@ -209,38 +209,26 @@ Fast Cloud Consulting,Board 2
 Sottelli,Board 2
 "Minsait (in ATS, recent, no jobs)",Board 2
 Softka Technologies,Board 2
-Intrepid Professional Search Group (1),Board 2
 Botpress (5),Board 2
 Spellbook (5),Board 2
 Flare (5),Board 2
-Alexi (4),Board 2
 One Stop Systems (OSS) (5),Board 2
-Lorvin Technologies (5),Board 2
 ENTOUCH (5),Board 2
-CoLab (5),Board 2
 Blockskye (5),Board 2
 Kneron (5),Board 2
 Duos Technologies (5),Board 2
 Q6 Cyber (5),Board 2
-BoodleBox (5),Board 2
-Ztek Consulting,Board 2
 M&S Consulting,Board 2
-West Monroe (7),Board 2
 Sapient (5),Board 2
 IFG - International Financial Group (5),Board 2
 DTS (2),Board 2
 Manifold (5),Board 2
-ketteQ (5),Board 2
-ARMO (6),Board 2
-SynergySuite (5),Board 2
 GrubMarket (6),Board 2
 Pison (5),Board 2
-Safetica (5),Board 2
 BlastPoint (5),Board 2
 Windfall (5),Board 2
 Ocient (5),Board 2
 AudioEye (8),Board 2
-NetFoundry (5),Board 2
 Arkestro (4),Board 2
 Swift Navigation (6),Board 2
 Reggora (5),Board 2
@@ -258,7 +246,6 @@ PassiveLogic,Board 2
 Iterate.ai,Board 2
 PetScreening,Board 2
 FieldPulse,Board 2
-ZestyAI,Board 2
 Portnox (5),Board 2
 RevStar (5),Board 2
 SANS Consulting (5),Board 2
@@ -267,9 +254,7 @@ Tastewise (4),Board 2
 Javara,Board 2
 AirGarage (4),Board 2
 QbDVision (4),Board 2
-Hypori (5),Board 2
 Roadzen (5),Board 2
-OnPay (5),Board 2
 Dexterity (5),Board 2
 Proscia (5),Board 2
 CloudZero (4),Board 2
@@ -291,7 +276,6 @@ Ayesa (5),Board 2
 Fullinfo (3),Board 2
 BriteCore (6),Board 2
 Eversynced (4),Board 2
-Verx Tecnologia e Inovação,Board 2
 BigRio (3),Board 2
 Veriswap (3),Board 2
 Acnovate Business Solutions (5),Board 2
@@ -445,7 +429,6 @@ ScienceLogic,Board 2
 Intermedia Intelligent Communications,Board 2
 iPipeline,Board 2
 Mozilla,Board 2
-"IPC Systems, Inc.",Board 2
 "Peak Technologies, Inc.",Board 2
 mProgen (3),Board 2
 REI Systems,Board 2
@@ -657,7 +640,6 @@ Kanshe Infotech,Board 2
 Connect Tech Talent,Board 2
 Proofpoint,Board 2
 Staffingine LLC,Board 2
-Gainwell Technologies (6),Board 2
 "Alltech Consulting Services, Inc.",Board 2
 AVI-SPL (8),Board 2
 Perplexity,Board 2
@@ -765,24 +747,28 @@ Auterion (5),Board 2
 BrainChip (5),Board 2
 Dataplor (5),Board 2
 Connectbase (5),Board 2
+Popmenu (5),Board 2
+Docusign (5),Board 2
+SoftExpert (5),Board 2
+Veryfi (5),Board 2
+Interlaced (5),Board 2
+Crossing Hurdles (5),Board 2
+OnPay (5),Board 2
+ZestyAI (5),Board 2
+Hypori (5),Board 2
+Gainwell Technologies (6),Board 2
+Verx Tecnologia e Inovação (5),Board 2
 Senture,Board 2
-Markup AI (5),Board 2
-Inbox Health (5),Board 2
-Salesforce (5),Board 2
-Nirmata (4),Board 2
-Redica Systems (5),Board 2
-Prophecy (4),Board 2
+SoftwareOne (6),Board 2
+Revenue Party (4),Board 2
+Best Buy (7),Board 2
 Forethought (5),Board 2
-BRQ Digital Solutions (5),Board 2
-Tential Solutions (6),Board 2
-7 Kings Code (4),Board 2
-Tech Magnetics (4),Board 2
-Next League (5),Board 2
-Nsight (5),Board 2
-RealTek Consulting (4),Board 2
-Spadtek Solutions (5),Board 2
-Natural Cycles (5),Board 2
-HRnetGroup (4),Board 2
+Prophecy (4),Board 2
+Redica Systems (5),Board 2
+Nirmata (4),Board 2
+Salesforce (5),Board 2
+Inbox Health (5),Board 2
+Markup AI (5),Board 2
 LeverX,Board 2
 MetaSource,Board 2
 "EverService Holdings, LLC",Board 2
@@ -949,10 +935,20 @@ Unosquare,Board 2
 Zortech Solutions,Board 2
 Data Capital,Board 2
 GyanSys (6),Board 2
-Best Buy (7),Board 2
-Revenue Party (4),Board 2
-SoftwareOne (6),Board 2
 Visual Edge IT,Board 2
+Safetica (5),Board 2
+Alexi (4),Board 2
+SynergySuite (5),Board 2
+ARMO (6),Board 2
+CoLab (5),Board 2
+Ztek Consulting (5),Board 2
+NetFoundry (5),Board 2
+West Monroe (7),Board 2
+ketteQ (5),Board 2
+"IPC Systems, Inc.",Board 2
+BoodleBox (5),Board 2
+Lorvin Technologies (5),Board 2
+Intrepid Professional Search Group (1),Board 2
 Vega Intellisoft (3),Board 2
 PeakActivity (4),Board 2
 Uber for Business (5),Board 2
@@ -963,6 +959,16 @@ TalentzPro (2),Board 2
 Mudrasys (5),Board 2
 CertifID (4),Board 2
 AJACJKUS (5),Board 2
+7 Kings Code (4),Board 2
+HRnetGroup (4),Board 2
+Natural Cycles (5),Board 2
+Spadtek Solutions (5),Board 2
+RealTek Consulting (4),Board 2
+Nsight (5),Board 2
+Next League (5),Board 2
+Tech Magnetics (4),Board 2
+Tential Solutions (6),Board 2
+BRQ Digital Solutions (5),Board 2
 Luxer One (6),Board 2
 Highbrow Technology (3),Board 2
 EXEMPLAR ITS,Board 2
