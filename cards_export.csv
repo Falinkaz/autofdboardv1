@@ -1,8 +1,14 @@
 card_name,board_name
-Presidio,Board 1
-Authority Partners (5),Board 1
-Ascendion (7),Board 1
+OneClick Code,Board 1
+Linx (6),Board 1
+ScaleNorth,Board 1
+SysTechCorp (5),Board 1
 MSK Infotek (5),Board 1
+Presidio,Board 1
+Ataway (5),Board 1
+Bhavna (5),Board 1
+Tellabs  (4),Board 1
+Authority Partners (5),Board 1
 Javen Technologies (5),Board 1
 Jubilant Consulting,Board 1
 Tanisha Systems,Board 1
@@ -45,7 +51,7 @@ Nava Software,Board 1
 Pyramid Consulting,Board 1
 Culinovo,Board 1
 Software Guidance & Assistance (SGA),Board 1
-Ataway (5),Board 1
+Brintell (5),Board 1
 Level Access,Board 1
 Horizontal Talent,Board 1
 Pyramid Consulting,Board 1
@@ -55,27 +61,15 @@ Sigmoid,Board 1
 NMC Managed,Board 1
 Feuji,Board 1
 Accord Innovations,Board 1
-Amzur Technologies,Board 1
-SysTechCorp (5),Board 1
 Saven Technologies,Board 1
-Apollo Information Systems,Board 1
-OneClick Code,Board 1
-Bhavna (5),Board 1
 Data Network,Board 1
-Tellabs  (4),Board 1
 Sharp Decisions,Board 1
-Aevitas (1),Board 1
 Parmesoft,Board 1
-Brintell (5),Board 1
-Linx (6),Board 1
-Tekton Labs,Board 1
-ScaleNorth,Board 1
 Aspire Systems,Board 1
-Aptask,Board 1
 Symphony,Board 1
 NearshoreInMexico,Board 1
-Artech,Board 1
-Microgreen Technologies (5),Board 1
+Amzur Technologies,Board 1
+Apollo Information Systems,Board 1
 Optomi,Board 1
 Truelogic Software,Board 1
 Catalyte,Board 1
@@ -197,6 +191,12 @@ K&K Global Talent Solutions,Board 1
 Dedicated IT,Board 1
 eTeam,Board 1
 Accroid Inc,Board 1
+Ascendion (7),Board 1
+Aevitas (1),Board 1
+Tekton Labs,Board 1
+Aptask,Board 1
+Artech,Board 1
+Microgreen Technologies (5),Board 1
 Merit4All,Board 1
 10Pearls LATAM,Board 1
 Chaintech,Board 2
@@ -298,7 +298,6 @@ RevStar (5),Board 2
 SANS Consulting (5),Board 2
 Suneratech (4),Board 2
 Tastewise (4),Board 2
-Javara,Board 2
 AirGarage (4),Board 2
 Roadzen (5),Board 2
 Dexterity (5),Board 2
@@ -800,16 +799,15 @@ Conch Technologies (5),Board 2
 Seneca Resources (5),Board 2
 Invenio (5),Board 2
 PineQ Lab (5),Board 2
+TechTree (5),Board 2
+Zoolatech (5),Board 2
+Accylerate (5),Board 2
+Drip (5),Board 2
+Delmock Technologies (5),Board 2
+RWS Group (5),Board 2
+Javara (5),Board 2
 Artech,Board 2
-QbDVision (4),Board 2
-Click Therapeutics (4),Board 2
-KnowledgeLake (5),Board 2
 Senture,Board 2
-ZestyAI (5),Board 2
-OnPay (5),Board 2
-Verx Tecnologia e Inovação (5),Board 2
-Gainwell Technologies (6),Board 2
-Hypori (5),Board 2
 LeverX,Board 2
 MetaSource,Board 2
 "EverService Holdings, LLC",Board 2
@@ -951,56 +949,35 @@ Crucial Recruiting (3),Board 2
 Smart Folks,Board 2
 Merit4All,Board 2
 Cognits (3),Board 2
-YuJa (5),Board 2
 MSK Infotek (5),Board 2
 Ascendion (7),Board 2
 Ataway (5),Board 2
-HireRight (7),Board 2
 accelerize360 (5),Board 2
 Authority Partners (5),Board 2
 Proxet (5),Board 2
-Techunting (6),Board 2
 Data Network,Board 2
 Tellabs  (4),Board 2
-iFlow (5),Board 2
 Black Diamond,Board 2
 Bhavna (5),Board 2
-Glorium Technologies (5),Board 2
 NeelBlue Technology (3),Board 2
-Fastbreak AI (6),Board 2
 Aevitas (1),Board 2
 HR Link Group (1),Board 2
-EVOTEK (5),Board 2
 The Brixton Group (5),Board 2
 Linx (6),Board 2
-Duda (5),Board 2
 Adbakx (4),Board 2
 Vetta (5),Board 2
-Aris Global (4),Board 2
 Brintell (5),Board 2
 Tanisha Systems,Board 2
-AMDEX (5),Board 2
 The Dignify Solutions,Board 2
 New York Technology Partners,Board 2
-InApp (4),Board 2
 Unosquare,Board 2
-MacPaw (8),Board 2
 Data Capital,Board 2
-NexZenTek (4),Board 2
-HRnetGroup (4),Board 2
-Dev.Pro (5),Board 2
-Decypher (4),Board 2
-Next League (5),Board 2
-Nsight (5),Board 2
-Natural Cycles (5),Board 2
-RealTek Consulting (4),Board 2
-Spadtek Solutions (5),Board 2
-Tential Solutions (6),Board 2
-Tech Magnetics (4),Board 2
-7 Kings Code (4),Board 2
 GyanSys (6),Board 2
 Visual Edge IT,Board 2
 "IPC Systems, Inc.",Board 2
+KnowledgeLake (5),Board 2
+Click Therapeutics (4),Board 2
+QbDVision (4),Board 2
 Rentsync (5),Board 2
 CriticalRiver Inc.,Board 2
 Donato Technologies (5),Board 2
@@ -1008,48 +985,52 @@ Camsdata (4),Board 2
 Strider (5),Board 2
 Docusign (5),Board 2
 reesmarx (5),Board 2
-Crossing Hurdles (5),Board 2
 Floga Technologies (5),Board 2
 Senovo IT (5),Board 2
+Crossing Hurdles (5),Board 2
 Whitehall Resources (5),Board 2
 ALLSTARSIT (5),Board 2
-Intrepid Professional Search Group (1),Board 2
-Lorvin Technologies (5),Board 2
-BoodleBox (5),Board 2
-ketteQ (5),Board 2
-West Monroe (7),Board 2
-NetFoundry (5),Board 2
-Ztek Consulting (5),Board 2
-Safetica (5),Board 2
-Alexi (4),Board 2
-SynergySuite (5),Board 2
-ARMO (6),Board 2
-CoLab (5),Board 2
 Luxer One (6),Board 2
-Vega Intellisoft (3),Board 2
-Markup AI (5),Board 2
-Inbox Health (5),Board 2
-Salesforce (5),Board 2
-Nirmata (4),Board 2
-Redica Systems (5),Board 2
-Prophecy (4),Board 2
-Forethought (5),Board 2
-Best Buy (7),Board 2
-Revenue Party (4),Board 2
-SoftwareOne (6),Board 2
+CoLab (5),Board 2
+ARMO (6),Board 2
+SynergySuite (5),Board 2
+Alexi (4),Board 2
+Safetica (5),Board 2
+Ztek Consulting (5),Board 2
+NetFoundry (5),Board 2
+West Monroe (7),Board 2
+ketteQ (5),Board 2
+BoodleBox (5),Board 2
+Lorvin Technologies (5),Board 2
+Intrepid Professional Search Group (1),Board 2
+Hypori (5),Board 2
+Gainwell Technologies (6),Board 2
+Verx Tecnologia e Inovação (5),Board 2
+OnPay (5),Board 2
+ZestyAI (5),Board 2
 Zortech Solutions,Board 2
 EXEMPLAR ITS,Board 2
-TalentzPro (2),Board 2
-PeakActivity (4),Board 2
-Motivity (5),Board 2
-Mambu (6),Board 2
-Jscrambler (5),Board 2
-Uber for Business (5),Board 2
+Vega Intellisoft (3),Board 2
+Highbrow Technology (3),Board 2
+AJACJKUS (5),Board 2
 CertifID (4),Board 2
 Mudrasys (5),Board 2
-AJACJKUS (5),Board 2
-Highbrow Technology (3),Board 2
-BRQ Digital Solutions (5),Board 2
+Revenue Party (4),Board 2
+Best Buy (7),Board 2
+Forethought (5),Board 2
+Prophecy (4),Board 2
+Redica Systems (5),Board 2
+Nirmata (4),Board 2
+Salesforce (5),Board 2
+Inbox Health (5),Board 2
+Markup AI (5),Board 2
+Uber for Business (5),Board 2
+Jscrambler (5),Board 2
+Mambu (6),Board 2
+Motivity (5),Board 2
+PeakActivity (4),Board 2
+TalentzPro (2),Board 2
+SoftwareOne (6),Board 2
 "SADA, An Insight company",Board 2
 PMY Group (5),Board 2
 SDH Systems (3),Board 2
@@ -1286,3 +1267,28 @@ Kairos Technologies (4),Board 2
 AttainX (5),Board 2
 Evrone (5),Board 2
 Jabil Circuit (6),Board 2
+YuJa (5),Board 2
+HireRight (7),Board 2
+Techunting (6),Board 2
+iFlow (5),Board 2
+Glorium Technologies (5),Board 2
+Fastbreak AI (6),Board 2
+EVOTEK (5),Board 2
+Duda (5),Board 2
+Aris Global (4),Board 2
+AMDEX (5),Board 2
+InApp (4),Board 2
+MacPaw (8),Board 2
+NexZenTek (4),Board 2
+HRnetGroup (4),Board 2
+Dev.Pro (5),Board 2
+Decypher (4),Board 2
+Next League (5),Board 2
+Nsight (5),Board 2
+Natural Cycles (5),Board 2
+RealTek Consulting (4),Board 2
+Spadtek Solutions (5),Board 2
+Tential Solutions (6),Board 2
+Tech Magnetics (4),Board 2
+7 Kings Code (4),Board 2
+BRQ Digital Solutions (5),Board 2
