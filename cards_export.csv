@@ -15,7 +15,6 @@ Tanisha Systems,Board 1
 Creative Synergies Group,Board 1
 Perfetti Van Melle,Board 1
 NeelBlue Technology (3),Board 1
-Black Diamond,Board 1
 The Silicon Partners Inc,Board 1
 The Brixton Group (5),Board 1
 The Dignify Solutions,Board 1
@@ -62,6 +61,8 @@ NMC Managed,Board 1
 Feuji,Board 1
 Accord Innovations,Board 1
 Saven Technologies,Board 1
+DataSync (4),Board 1
+Black Diamond,Board 1
 Data Network,Board 1
 Sharp Decisions,Board 1
 Parmesoft,Board 1
@@ -216,12 +217,9 @@ Sottelli,Board 2
 Softka Technologies,Board 2
 The Caldwell Group (4),Board 2
 Metalight (4),Board 2
-DataSync (4),Board 2
-PTR Global (5),Board 2
 Whatnot (5),Board 2
 Georgia IT (5),Board 2
 Zuri (5),Board 2
-SynapOne (5),Board 2
 RONIN Studies (5),Board 2
 Optery (5),Board 2
 Innodata (5),Board 2
@@ -229,15 +227,12 @@ Velozient (5),Board 2
 RELISH (5),Board 2
 Halo Media (5),Board 2
 Capstone IT (5),Board 2
-TechDemocracy,Board 2
-Hiresquad Resources (2),Board 2
 GraceMark Solutions (5),Board 2
 DYCSI (5),Board 2
 VeraLogics (5),Board 2
 MIGNOW (5),Board 2
 Sentinel Group (5),Board 2
 Webflow (5),Board 2
-Reuben Cooley (5),Board 2
 ADDSOURCE (5),Board 2
 SOMMA IT (5),Board 2
 TTC Group (5),Board 2
@@ -245,7 +240,6 @@ TTC Group (5),Board 2
 Interlaced (5),Board 2
 Veryfi (5),Board 2
 SoftExpert (5),Board 2
-Popmenu (5),Board 2
 Connectbase (5),Board 2
 Dataplor (5),Board 2
 BrainChip (5),Board 2
@@ -750,7 +744,7 @@ Ascension Health,Board 2
 AptoNet,Board 2
 Celer Soft,Board 2
 a2C IT Consulting,Board 2
-ITECS,Board 2
+ECS,Board 2
 Nutanix,Board 2
 Computech Corporation,Board 2
 Avenue Code,Board 2
@@ -779,32 +773,31 @@ Northware,Board 2
 Access Global Group,Board 2
 IZEI Consulting Group,Board 2
 Prominds Business Consulting (3),Board 2
-Mastech Digital (5),Board 2
 Akkodis (5),Board 2
 Attaxion (5),Board 2
-Aditi Consulting (5),Board 2
 PlanIT Group (5),Board 2
 Sigmaways (5),Board 2
 Motivf (5),Board 2
 e&e IT Consulting Services (5),Board 2
 QvalFocus (5),Board 2
-Vailexa (5),Board 2
-NexTech Solutions (5),Board 2
 IT Primeinc (5),Board 2
-Cloudrover (5),Board 2
-Fiserv (5),Board 2
 SunRay Enterprise (5),Board 2
-Capital One (5),Board 2
 Conch Technologies (5),Board 2
 Seneca Resources (5),Board 2
 Invenio (5),Board 2
-PineQ Lab (5),Board 2
 TechTree (5),Board 2
 Zoolatech (5),Board 2
 Accylerate (5),Board 2
 Drip (5),Board 2
 Delmock Technologies (5),Board 2
 RWS Group (5),Board 2
+ITECS (5),Board 2
+LEO DOES IT (2),Board 2
+Magnum Opus (4),Board 2
+IntePros (5),Board 2
+Inphonite (5),Board 2
+LeadStack (5),Board 2
+Solerity (5),Board 2
 Javara (5),Board 2
 Artech,Board 2
 Senture,Board 2
@@ -975,6 +968,20 @@ Data Capital,Board 2
 GyanSys (6),Board 2
 Visual Edge IT,Board 2
 "IPC Systems, Inc.",Board 2
+Fiserv (5),Board 2
+Vailexa (5),Board 2
+Aditi Consulting (5),Board 2
+Mastech Digital (5),Board 2
+PTR Global (5),Board 2
+SynapOne (5),Board 2
+TechDemocracy (4),Board 2
+Popmenu (5),Board 2
+Reuben Cooley (5),Board 2
+Hiresquad Resources (2),Board 2
+NexTech Solutions (5),Board 2
+PineQ Lab (5),Board 2
+Cloudrover (5),Board 2
+Capital One (5),Board 2
 KnowledgeLake (5),Board 2
 Click Therapeutics (4),Board 2
 QbDVision (4),Board 2
@@ -1109,6 +1116,7 @@ Ambient Consulting,Board 2
 Javen Technologies (5),Board 2
 Microgreen Technologies (5),Board 2
 SysTechCorp (5),Board 2
+DataSync (4),Board 2
 Nava Software,Board 2
 Proxify,Board 2
 Sticker Mule,Board 2
