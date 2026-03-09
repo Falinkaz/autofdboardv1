@@ -12,32 +12,26 @@ WEBHOOK  = os.environ.get("GOOGLE_CHAT_WEBHOOK_URL") or sys.exit("Missing GOOGLE
 BOARD_ID = "AQJCiqwE"  # my selected board (Focused Prospecting)
 LOCAL_TZ = ZoneInfo("America/Mexico_City")
 
-def previous_business_window_local(tz: ZoneInfo):
-    """Return (start_utc_iso, end_utc_iso, label_local) for the *previous business day*
-    relative to 'now' in the given timezone. (Mon→Fri goes back 3 days; Tue–Fri back 1 day;
-    weekend goes back to Friday.)"""
+def weekly_window_local(tz: ZoneInfo):
+    """Return (start_utc_iso, end_utc_iso, label) for the window:
+    last Friday 00:00 → end of yesterday (Thursday) 23:59.
+    Designed to run on Fridays."""
     now_local = dt.datetime.now(tz)
     today = now_local.date()
-    wd = today.weekday()  # Mon=0 ... Sun=6
 
-    if wd == 0:          # Monday -> Friday
-        delta_days = 3
-    elif wd == 6:        # Sunday -> Friday
-        delta_days = 2
-    elif wd == 5:        # Saturday -> Friday
-        delta_days = 1
-    else:                # Tue–Fri -> yesterday
-        delta_days = 1
+    # "Yesterday" is Thursday (end of window)
+    thursday = today - dt.timedelta(days=1)
+    # Start is the Friday of last week (7 days before today)
+    last_friday = today - dt.timedelta(days=7)
 
-    prev = today - dt.timedelta(days=delta_days)
-    start_local = dt.datetime(prev.year, prev.month, prev.day, 0, 0, 0, tzinfo=tz)
-    end_local   = start_local + dt.timedelta(days=1)
+    start_local = dt.datetime(last_friday.year, last_friday.month, last_friday.day, 0, 0, 0, tzinfo=tz)
+    end_local   = dt.datetime(thursday.year, thursday.month, thursday.day, 0, 0, 0, tzinfo=tz) + dt.timedelta(days=1)
 
     start_utc = start_local.astimezone(dt.timezone.utc)
     end_utc   = end_local.astimezone(dt.timezone.utc)
 
-    # label like "Wed Sep 17"
-    label = prev.strftime("%a %b %d")
+    # Label like "Fri Sep 12 – Thu Sep 18"
+    label = f"{last_friday.strftime('%a %b %d')} – {thursday.strftime('%a %b %d')}"
     return (
         start_utc.isoformat().replace("+00:00", "Z"),
         end_utc.isoformat().replace("+00:00", "Z"),
@@ -104,15 +98,16 @@ def post_to_chat(text: str):
 
 def format_message(label, counts):
     if not counts:
-        return f"🔔 Focused Prospecting — no new cards on {label}."
-    header = f"🔔 Focused Prospecting Cards created on {label}:"
+        return f"🔔 Focused Prospecting — no new cards for the week of {label}."
+    header = f"🔔 Focused Prospecting — cards created {label}:"
     lines = [header]
     for owner, n in sorted(counts.items(), key=lambda kv: (-kv[1], kv[0].lower())):
         lines.append(f"{owner}: {n}")
     return "\n".join(lines)
 
 def main():
-    since_iso, before_iso, label = previous_business_window_local(LOCAL_TZ)
+    # was: since_iso, before_iso, label = previous_business_window_local(LOCAL_TZ)
+    since_iso, before_iso, label = weekly_window_local(LOCAL_TZ)
 
     try:
         card_ids = fetch_created_card_ids(BOARD_ID, since_iso, before_iso)
